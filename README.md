@@ -5,10 +5,10 @@
 
 + Alan : *alanchan08*
 + Tommy : *tom-freetime*
-+ Nicolas : *Unknow* 
-+ Kelvin : *Unknow* 
++ Nicolas : *unknow* 
++ Kelvin : *unknow* 
 + Mickael : *Michael45* 
-+ Massil : *Unknow* 
++ Massil : *unknow* 
 + Eric : *superphung*
 
 ## Specifications
