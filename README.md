@@ -3,13 +3,13 @@
 
 ## Team Presentation
 
-+ Alan Chan
-+ Tommy Nacass
-+ Nicolas Yue
-+ Kelvin Hado
-+ Mickael Gomes
-+ Massil Yataghene
-+ Eric Phung
++ Alan : *alanchan08*
++ Tommy : *tom-freetime*
++ Nicolas : *Unknow* 
++ Kelvin : *Unknow* 
++ Mickael : *Michael45* 
++ Massil : *Unknow* 
++ Eric : *superphung*
 
 ## Specifications
 
