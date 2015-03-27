@@ -17,7 +17,7 @@
 
 1. **Platform** : Unity
 2. **Language** : C#
-3. **Workflow** : Plugins Unity ? Synchronized Dropbox ?Github Synchronization ?
+3. **Workflow** : Plugins Unity ? Synchronized Dropbox ? Github Synchronization ?
 
 
 ### Game Itself
@@ -54,3 +54,9 @@
 5. Waves Supervisor : *Graphics + Controllers*
 6. Map Supervisor : *Graphics + Controllers*
 7. Storyboard supervisor : *Scene Management*
+
+## TODO
+
++ Assign Work Parts to each members
++ Answer the question in group : Tower Placement & Synchronization Worflow
++ Other Suggestions ?
