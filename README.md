@@ -5,10 +5,10 @@
 
 + Alan : *alanchan08*
 + Tommy : *tom-freetime*
-+ Nicolas : *unknow* 
-+ Kelvin : *unknow* 
++ Nicolas : *MisterYue* 
++ Kelvin : *kelvinhado* 
 + Mickael : *Michael45* 
-+ Massil : *unknow* 
++ Massil : *Massil* 
 + Eric : *superphung*
 
 ## Specifications
@@ -27,7 +27,7 @@
 
   *  Number : 1
 
-  *  Bonus Assignements : Map generation
+  *  Bonus Assignements : Map procedural generation
 
 2. Mobs  
 
@@ -37,7 +37,7 @@
 
 3. Tower
 
-  * Tower Placement : All the map or only on the sideroad ? 
+  * Tower Placement : All the map or only on the sideroad ? Maybe two Game mode to choose ?
 
   * Tower Type : DPS, Crowded Control, Area Of Effect, Aura Tower.
 
