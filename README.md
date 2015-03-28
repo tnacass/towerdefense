@@ -37,7 +37,9 @@
 
 3. Tower
 
-  * Tower Placement : All the map or only on the sideroad ? Maybe two Game mode to choose ?
+  * Tower Placement : Only on the sideroad ?
+ 
+  Bonus assignments: Maybe two Game mode to choose 
 
   * Tower Type : DPS, Crowded Control, Area Of Effect, Aura Tower.
 
@@ -47,16 +49,16 @@
 
 ## Work Division
 
-1. Windows Env Supervisor : *Event Management*
-2. Android Env Supervisor : *Event Management*
-3. IOS Env Supervisor : *Event Management*
-4. Towers Supervisor : *Graphics + Controllers*
-5. Waves Supervisor : *Graphics + Controllers*
-6. Map Supervisor : *Graphics + Controllers*
-7. Storyboard supervisor : *Scene Management*
+1. Windows Env Supervisor : *Event Management* alanchan08
+2. Android Env Supervisor : *Event Management* kelvinhado
+3. IOS Env Supervisor : *Event Management* Massil
+4. Towers Supervisor : *Graphics + Controllers* Eric
+5. Waves Supervisor : *Graphics + Controllers* Michael45
+6. Map Supervisor : *Graphics + Controllers* Tommy
+7. Storyboard supervisor : *Scene Management* Nicolas
 
 ## TODO
 
-+ Assign Work Parts to each members
-+ Answer the question in group : Tower Placement & Synchronization Worflow
++ Assign Work Parts to each members   DONE
++ Answer the question in group : Tower Placement (DONE ) & Synchronization Worflow (Not DONE)
 + Other Suggestions ?
