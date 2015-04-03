@@ -7,7 +7,7 @@
 + Tommy : *tom-freetime*
 + Nicolas : *MisterYue* 
 + Kelvin : *kelvinhado* 
-+ Mickael : *Michael45* 
++ Mickael : *Mickael45* 
 + Massil : *Massil* 
 + Eric : *superphung*
 
@@ -49,16 +49,27 @@
 
 ## Work Division
 
+<!-- 
 1. Windows Env Supervisor : *Event Management* alanchan08
 2. Android Env Supervisor : *Event Management* kelvinhado
 3. IOS Env Supervisor : *Event Management* Massil
 4. Towers Supervisor : *Graphics + Controllers* Eric
-5. Waves Supervisor : *Graphics + Controllers* Michael45
+5. Waves Supervisor : *Graphics + Controllers* Mickael45
 6. Map Supervisor : *Graphics + Controllers* Tommy
 7. Storyboard supervisor : *Scene Management* Nicolas
+ -->
 
-## TODO
+Revamp
 
-+ Assign Work Parts to each members   DONE
-+ Answer the question in group : Tower Placement (DONE ) & Synchronization Worflow (Not DONE)
-+ Other Suggestions ?
+*Games Mechanics*
+1. Tower Mechanics : alanchan08
+2. Waves Mechanics : Tommy
+3. Menu Scene - Game Over Scene :
+
+*Audio Team*
+4. Sound Supervisor : kelvinhado
+
+*Graphics Team*
+5. Waves Graphics : Eric
+6. Tower Graphics : Mickael45
+7. Map Graphics : Massil
