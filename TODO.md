@@ -22,8 +22,6 @@
 - [ ] Mixed waves (undefined yet)
 - [ ] Random generation following previous sequence
 
-DPS, Crowded Control, Area Of Effect, Aura Tower.
-
 # Alan - Tower :
 ## Tower Mechanics
 - [X]  Basic DPS Tower One Shot
