@@ -63,7 +63,7 @@
 
 1. Tower Mechanics : alanchan08
 2. Waves Mechanics : tom-freetime
-3. Menu Scene - Game Over Scene :
+3. Menu Scene - Game Over Scene : nicolas 
 
 *Audio Team*
 
@@ -72,5 +72,5 @@
 *Graphics Team*
 
 5. Waves Graphics : phung
-6. Tower Graphics : Mickael45
-7. Map Graphics : Massil
+6. Tower Graphics : mickael45
+7. Map Graphics : massil
