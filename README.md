@@ -27,7 +27,7 @@
 
   *  Number : 1
 
-  *  Bonus Assignements : Map procedural generation
+    *Bonus Assignements* : Map procedural generation
 
 2. Mobs  
 
@@ -39,7 +39,7 @@
 
   * Tower Placement : Only on the sideroad ?
  
-  Bonus assignments: Maybe two Game mode to choose 
+    *Bonus assignments*: Maybe two Game mode to choose 
 
   * Tower Type : DPS, Crowded Control, Area Of Effect, Aura Tower.
 
@@ -59,17 +59,18 @@
 7. Storyboard supervisor : *Scene Management* Nicolas
  -->
 
-Revamp
-
 *Games Mechanics*
+
 1. Tower Mechanics : alanchan08
-2. Waves Mechanics : Tommy
+2. Waves Mechanics : tom-freetime
 3. Menu Scene - Game Over Scene :
 
 *Audio Team*
+
 4. Sound Supervisor : kelvinhado
 
 *Graphics Team*
-5. Waves Graphics : Eric
+
+5. Waves Graphics : phung
 6. Tower Graphics : Mickael45
 7. Map Graphics : Massil
