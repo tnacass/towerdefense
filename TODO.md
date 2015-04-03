@@ -2,7 +2,7 @@
 
 # General assignements
 - [X] Assign Work parts to each members
-- [X] Synchronization using external github.
+- [ ] Synchronization using external github.
 - [ ] Others ?
 
 # Tommy - Waves:
