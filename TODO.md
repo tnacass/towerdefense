@@ -22,6 +22,22 @@
 - [ ] Mixed waves (undefined yet)
 - [ ] Random generation following previous sequence
 
+# Mickael - Wave Graphics :
+
+## 3D Models and Textures
+- [X] Find the 3D models and textures
+- [X] Convert them so they can be used on Unity
+- [ ] Create a specific monster for each wave with the imported 3D models and textures
+
+## Animation
+- [ ] Specific "move" animation for each monster
+- [ ] Specific "death" animation for each monster
+
+## Bonus
+- [ ] Corpse disparition animation
+- [ ] Monster portrait (displayed when we click on the monster to see its stats)
+- [ ] Portrait animation
+
 # Alan - Tower :
 ## Tower Mechanics
 - [X]  Basic DPS Tower One Shot
