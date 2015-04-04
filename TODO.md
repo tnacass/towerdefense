@@ -1,6 +1,7 @@
-# TODO
+subl# TODO
 
 # General assignements
+- [X] Setup the Unity Environment
 - [X] Assign Work parts to each members
 - [ ] Synchronization using external github.
 - [ ] Others ?
@@ -69,3 +70,26 @@
 - [ ] AOE bolts
 - [ ] Stunning Bolt
 - [ ] Snare Bolt
+
+
+# Kelvin - Sound Management :
+
+## Setup the Sound Environement 
+- [X] Installation of Audacity
+
+## Scene Background Music
+- [ ] Music for the background of the scene that will be played when there is no waves.
+- [ ] Music for differents waves : Tanks, Flying and Boss waves
+- [ ] Music for the menu
+- [ ] Sound for the end of the game
+
+## Tower Sound Effect
+- [ ] Sound when you select a new Tower from the "Tower Selection Menu"
+- [ ] Sound when you move and place a tower in the field
+- [ ] Specific sound for each kind of attacks (slow, poison, gunshot)
+
+## Mobs Sound Effect
+- [ ] Differents footsteps sound for each kind of monster
+- [ ] Specific sound when the monster is being hurt by a tower
+- [ ] Specific sound when the monster is killed
+   
