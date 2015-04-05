@@ -1,5 +1,6 @@
 #Tower Defense Project Training
 
+[Configuring your unity editor](http://www.doolwind.com/blog/git-unity-developers/)
 
 ## Team Presentation
 
