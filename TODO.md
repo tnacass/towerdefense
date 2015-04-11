@@ -26,9 +26,10 @@ subl# TODO
 # Mickael - Wave Graphics :
 
 ## 3D Models and Textures
-- [X] Find the 3D models and textures
-- [X] Convert them so they can be used on Unity
+- [X] Find the 3D models, textures and animations
+- [ ] Convert them so they can be used on Unity
 - [ ] Create a specific monster for each wave with the imported 3D models and textures
+
 
 ## Animation
 - [ ] Specific "move" animation for each monster
