@@ -9,12 +9,14 @@ public class Bullet : MonoBehaviour
 
 	void FixedUpdate()
 	{
-		if (target) {	
-			// Fly towards the target           
+		if (target) 
+		{	
+			         
 			Vector3 bulletDirection = target.position - transform.position;
 			GetComponent<Rigidbody> ().velocity = bulletDirection.normalized * speed;
 
-		} else 
+		} 
+		else 
 		{
 			Destroy(gameObject);
 		}
