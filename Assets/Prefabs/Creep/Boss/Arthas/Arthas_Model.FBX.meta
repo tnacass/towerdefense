@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 3a1dcf0bf57cb7240bbc252d02956bbf
+timeCreated: 1429939348
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: //RootNode
+    100004: Bone Hor10
+    100006: Bone Hor11
+    100008: Bone Hor12
+    100010: Bone Hor13
+    100012: Bone Hor14
+    100014: Bone Hor15
+    100016: Bone Hor16
+    100018: Bone Hor17
+    100020: Bone Hor18
+    100022: Bone Hor19
+    100024: Bone Hors0
+    100026: Bone Hors1
+    100028: Bone Hors2
+    100030: Bone Hors3
+    100032: Bone Hors4
+    100034: Bone Hors5
+    100036: Bone Hors6
+    100038: Bone Hors7
+    100040: Bone Hors8
+    100042: Bone Hors9
+    100044: Bone Horse
+    100046: Bone Horse_Tail1
+    100048: Bone Horse_Tail2
+    100050: Bone Horse_tail3
+    100052: Bone_Arm1_L
+    100054: Bone_Arm1_R
+    100056: Bone_Arm2_L
+    100058: Bone_Arm2_R
+    100060: Bone_Chest
+    100062: Bone_Hand_L
+    100064: Bone_Hand_R
+    100066: Bone_Head
+    100068: Bone_Leg1_L
+    100070: Bone_Leg1_R
+    100072: Bone_Leg2_L
+    100074: Bone_Leg2_R
+    100076: Bone_Pelvis
+    100078: Bone_Root
+    100080: BoneHorse_Cloth1L
+    100082: BoneHorse_Cloth1R
+    100084: BoneHorse_Cloth2L
+    100086: BoneHorse_Cloth2R
+    100088: BoneHorse_Cloth3aL
+    100090: BoneHorse_Cloth3aR
+    100092: BoneHorse_Cloth3L
+    100094: BoneHorse_Cloth3R
+    100096: BoneHorse_NeckCloth1L
+    100098: BoneHorse_NeckCloth1R
+    100100: BoneHorse_NeckCloth2L
+    100102: BoneHorse_NeckCloth2R
+    100104: BoneHorse_NeckCloth3L
+    100106: BoneHorse_NeckCloth3R
+    100108: BoneHorse_ShieldL
+    100110: BoneHorse_ShieldR
+    100112: Cape_01
+    100114: Cape_02
+    100116: Cape_03
+    100118: Cape_04
+    100120: Chest Mount Left Ref
+    100122: Chest Mount Rear Ref
+    100124: Chest Mount Ref
+    100126: Chest Mount Right Ref
+    100128: Chest Ref
+    100130: Foot Left Rear Ref
+    100132: 'Foot Left Ref '
+    100134: Foot Right Rear Ref
+    100136: 'Foot Right Ref '
+    100138: GlowPlane01
+    100140: GlowPlane02
+    100142: GlowPlane03
+    100144: GlowPlane04
+    100146: GlowPlane05
+    100148: GlowPlane06
+    100150: HairEnd01
+    100152: 'Hand Left Ref '
+    100154: 'Hand Right Ref '
+    100156: Head - Ref
+    100158: Head Mount - Ref
+    100160: hero2
+    100162: hero3
+    100164: HeroDeathKnight1
+    100166: HeroDeathKnight2
+    100168: HeroDeathKnight3
+    100170: HeroDeathKnight4
+    100172: HeroDeathKnight5
+    100174: HeroDeathKnight6
+    100176: m3bone_root
+    100178: Mesh01
+    100180: Object06
+    100182: 'Origin Ref '
+    100184: 'OverHead Ref '
+    100186: Plane138
+    100188: Plane140
+    100190: Plane141
+    100192: Portrait_HairBack
+    100194: Portrait_HairL
+    100196: Portrait_HairR
+    100198: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: //RootNode
+    400004: Bone Hor10
+    400006: Bone Hor11
+    400008: Bone Hor12
+    400010: Bone Hor13
+    400012: Bone Hor14
+    400014: Bone Hor15
+    400016: Bone Hor16
+    400018: Bone Hor17
+    400020: Bone Hor18
+    400022: Bone Hor19
+    400024: Bone Hors0
+    400026: Bone Hors1
+    400028: Bone Hors2
+    400030: Bone Hors3
+    400032: Bone Hors4
+    400034: Bone Hors5
+    400036: Bone Hors6
+    400038: Bone Hors7
+    400040: Bone Hors8
+    400042: Bone Hors9
+    400044: Bone Horse
+    400046: Bone Horse_Tail1
+    400048: Bone Horse_Tail2
+    400050: Bone Horse_tail3
+    400052: Bone_Arm1_L
+    400054: Bone_Arm1_R
+    400056: Bone_Arm2_L
+    400058: Bone_Arm2_R
+    400060: Bone_Chest
+    400062: Bone_Hand_L
+    400064: Bone_Hand_R
+    400066: Bone_Head
+    400068: Bone_Leg1_L
+    400070: Bone_Leg1_R
+    400072: Bone_Leg2_L
+    400074: Bone_Leg2_R
+    400076: Bone_Pelvis
+    400078: Bone_Root
+    400080: BoneHorse_Cloth1L
+    400082: BoneHorse_Cloth1R
+    400084: BoneHorse_Cloth2L
+    400086: BoneHorse_Cloth2R
+    400088: BoneHorse_Cloth3aL
+    400090: BoneHorse_Cloth3aR
+    400092: BoneHorse_Cloth3L
+    400094: BoneHorse_Cloth3R
+    400096: BoneHorse_NeckCloth1L
+    400098: BoneHorse_NeckCloth1R
+    400100: BoneHorse_NeckCloth2L
+    400102: BoneHorse_NeckCloth2R
+    400104: BoneHorse_NeckCloth3L
+    400106: BoneHorse_NeckCloth3R
+    400108: BoneHorse_ShieldL
+    400110: BoneHorse_ShieldR
+    400112: Cape_01
+    400114: Cape_02
+    400116: Cape_03
+    400118: Cape_04
+    400120: Chest Mount Left Ref
+    400122: Chest Mount Rear Ref
+    400124: Chest Mount Ref
+    400126: Chest Mount Right Ref
+    400128: Chest Ref
+    400130: Foot Left Rear Ref
+    400132: 'Foot Left Ref '
+    400134: Foot Right Rear Ref
+    400136: 'Foot Right Ref '
+    400138: GlowPlane01
+    400140: GlowPlane02
+    400142: GlowPlane03
+    400144: GlowPlane04
+    400146: GlowPlane05
+    400148: GlowPlane06
+    400150: HairEnd01
+    400152: 'Hand Left Ref '
+    400154: 'Hand Right Ref '
+    400156: Head - Ref
+    400158: Head Mount - Ref
+    400160: hero2
+    400162: hero3
+    400164: HeroDeathKnight1
+    400166: HeroDeathKnight2
+    400168: HeroDeathKnight3
+    400170: HeroDeathKnight4
+    400172: HeroDeathKnight5
+    400174: HeroDeathKnight6
+    400176: m3bone_root
+    400178: Mesh01
+    400180: Object06
+    400182: 'Origin Ref '
+    400184: 'OverHead Ref '
+    400186: Plane138
+    400188: Plane140
+    400190: Plane141
+    400192: Portrait_HairBack
+    400194: Portrait_HairL
+    400196: Portrait_HairR
+    400198: Weapon Ref
+    2300000: HeroDeathKnight3
+    2300002: HeroDeathKnight4
+    2300004: HeroDeathKnight6
+    3300000: HeroDeathKnight3
+    3300002: HeroDeathKnight4
+    3300004: HeroDeathKnight6
+    4300000: HeroDeathKnight1
+    4300002: HeroDeathKnight2
+    4300004: HeroDeathKnight5
+    4300006: HeroDeathKnight3
+    4300008: HeroDeathKnight4
+    4300010: HeroDeathKnight6
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: HeroDeathKnight1
+    13700002: HeroDeathKnight2
+    13700004: HeroDeathKnight5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31579
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: HeroDeathKnight1
+        weight: 1
+      - path: HeroDeathKnight2
+        weight: 1
+      - path: HeroDeathKnight5
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone Horse
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14/Bone
+          Hor15
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14/Bone
+          Hor15/Foot Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18/Bone
+          Hor19
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18/Bone
+          Hor19/Foot Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1/Bone Horse_Tail2
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1/Bone Horse_Tail2/Bone
+          Horse_tail3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3/Bone
+          Hors4
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3/Bone
+          Hors4/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7/Bone
+          Hors8
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7/Bone
+          Hors8/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/Bone Hor10
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/Bone Hor10/Head Mount -
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L/BoneHorse_NeckCloth2L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L/BoneHorse_NeckCloth2L/BoneHorse_NeckCloth3L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R/BoneHorse_NeckCloth2R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R/BoneHorse_NeckCloth2R/BoneHorse_NeckCloth3R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/BoneHorse_ShieldL
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/BoneHorse_ShieldR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane02
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane03
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane04
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane05
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane06
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane138
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane138/HeroDeathKnight6
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane140
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane140/HeroDeathKnight3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane141
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane141/HeroDeathKnight4
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairBack
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairBack/HairEnd01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairL
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_03
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_03/Object06
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_04
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_04/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth1L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth1R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L/BoneHorse_Cloth3L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L/BoneHorse_Cloth3L/BoneHorse_Cloth3aL
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R/BoneHorse_Cloth3R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R/BoneHorse_Cloth3R/BoneHorse_Cloth3aR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/hero2
+        weight: 1
+      - path: m3bone_root/hero3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: HeroDeathKnight1
+        weight: 1
+      - path: HeroDeathKnight2
+        weight: 1
+      - path: HeroDeathKnight5
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone Horse
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14/Bone
+          Hor15
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14/Bone
+          Hor15/Foot Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18/Bone
+          Hor19
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18/Bone
+          Hor19/Foot Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1/Bone Horse_Tail2
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1/Bone Horse_Tail2/Bone
+          Horse_tail3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3/Bone
+          Hors4
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3/Bone
+          Hors4/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7/Bone
+          Hors8
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7/Bone
+          Hors8/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/Bone Hor10
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/Bone Hor10/Head Mount -
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L/BoneHorse_NeckCloth2L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L/BoneHorse_NeckCloth2L/BoneHorse_NeckCloth3L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R/BoneHorse_NeckCloth2R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R/BoneHorse_NeckCloth2R/BoneHorse_NeckCloth3R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/BoneHorse_ShieldL
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/BoneHorse_ShieldR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane02
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane03
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane04
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane05
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane06
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane138
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane138/HeroDeathKnight6
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane140
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane140/HeroDeathKnight3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane141
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane141/HeroDeathKnight4
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairBack
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairBack/HairEnd01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairL
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_03
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_03/Object06
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_04
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_04/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth1L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth1R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L/BoneHorse_Cloth3L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L/BoneHorse_Cloth3L/BoneHorse_Cloth3aL
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R/BoneHorse_Cloth3R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R/BoneHorse_Cloth3R/BoneHorse_Cloth3aR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/hero2
+        weight: 1
+      - path: m3bone_root/hero3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 919
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: HeroDeathKnight1
+        weight: 1
+      - path: HeroDeathKnight2
+        weight: 1
+      - path: HeroDeathKnight5
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone Horse
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14/Bone
+          Hor15
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor12/Bone Hor13/Bone Hor14/Bone
+          Hor15/Foot Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18/Bone
+          Hor19
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Hor16/Bone Hor17/Bone Hor18/Bone
+          Hor19/Foot Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1/Bone Horse_Tail2
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Bone Horse_Tail1/Bone Horse_Tail2/Bone
+          Horse_tail3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hor11/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3/Bone
+          Hors4
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone Hors0/Bone Hors1/Bone Hors2/Bone Hors3/Bone
+          Hors4/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7/Bone
+          Hors8
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone Hors0/Bone Hors5/Bone Hors6/Bone Hors7/Bone
+          Hors8/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/Bone Hor10
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/Bone Hor10/Head Mount -
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L/BoneHorse_NeckCloth2L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1L/BoneHorse_NeckCloth2L/BoneHorse_NeckCloth3L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R/BoneHorse_NeckCloth2R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Bone Hors9/BoneHorse_NeckCloth1R/BoneHorse_NeckCloth2R/BoneHorse_NeckCloth3R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/BoneHorse_ShieldL
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/BoneHorse_ShieldR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone Hors0/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane02
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane03
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane04
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane05
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/GlowPlane06
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane138
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane138/HeroDeathKnight6
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane140
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane140/HeroDeathKnight3
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane141
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Plane141/HeroDeathKnight4
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: 'm3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairBack
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairBack/HairEnd01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairL
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Bone_Head/Portrait_HairR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_03
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_03/Object06
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_04
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Cape_01/Cape_02/Cape_04/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth1L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth1R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L/BoneHorse_Cloth3L
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2L/BoneHorse_Cloth3L/BoneHorse_Cloth3aL
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R/BoneHorse_Cloth3R
+        weight: 1
+      - path: m3bone_root/Bone Horse/BoneHorse_Cloth2R/BoneHorse_Cloth3R/BoneHorse_Cloth3aR
+        weight: 1
+      - path: m3bone_root/Bone Horse/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Horse/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/hero2
+        weight: 1
+      - path: m3bone_root/hero3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

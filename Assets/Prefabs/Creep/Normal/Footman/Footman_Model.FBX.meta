@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 32e21939b4022b1498d85004be56b329
+timeCreated: 1429939294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bone_Arm1_L
+    100004: Bone_Arm1_R
+    100006: Bone_Arm2_L
+    100008: Bone_Arm2_R
+    100010: Bone_Chest
+    100012: Bone_Foot_L
+    100014: Bone_Foot_R
+    100016: Bone_Hand_R
+    100018: Bone_Head
+    100020: Bone_Leg1_L
+    100022: Bone_Leg1_R
+    100024: Bone_Leg2_L
+    100026: Bone_Leg2_R
+    100028: Bone_Pelvis
+    100030: Bone_Root
+    100032: Box02
+    100034: Box03
+    100036: Box04
+    100038: Box06
+    100040: Box07
+    100042: Box08
+    100044: Box09
+    100046: Box10
+    100048: Cantine
+    100050: Chest Ref
+    100052: Cone11
+    100054: 'Foot Left Ref '
+    100056: 'Foot Right Ref '
+    100058: Footman1
+    100060: Footman2
+    100062: Footman3
+    100064: Footman4
+    100066: Footman5
+    100068: //RootNode
+    100070: gutz00
+    100072: 'Hand Left Ref '
+    100074: 'Hand Right Ref '
+    100076: handle
+    100078: Head - Ref
+    100080: m3bone_root
+    100082: Mesh01
+    100084: Mesh02
+    100086: Mesh03
+    100088: Mesh05
+    100090: Mesh06
+    100092: Mesh07
+    100094: Mesh09
+    100096: Mesh11
+    100098: Mesh24
+    100100: Mesh25
+    100102: Mesh26
+    100104: Mesh27
+    100106: Object04
+    100108: 'Origin Ref '
+    100110: 'OverHead Ref '
+    100112: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: Bone_Arm1_L
+    400004: Bone_Arm1_R
+    400006: Bone_Arm2_L
+    400008: Bone_Arm2_R
+    400010: Bone_Chest
+    400012: Bone_Foot_L
+    400014: Bone_Foot_R
+    400016: Bone_Hand_R
+    400018: Bone_Head
+    400020: Bone_Leg1_L
+    400022: Bone_Leg1_R
+    400024: Bone_Leg2_L
+    400026: Bone_Leg2_R
+    400028: Bone_Pelvis
+    400030: Bone_Root
+    400032: Box02
+    400034: Box03
+    400036: Box04
+    400038: Box06
+    400040: Box07
+    400042: Box08
+    400044: Box09
+    400046: Box10
+    400048: Cantine
+    400050: Chest Ref
+    400052: Cone11
+    400054: 'Foot Left Ref '
+    400056: 'Foot Right Ref '
+    400058: Footman1
+    400060: Footman2
+    400062: Footman3
+    400064: Footman4
+    400066: Footman5
+    400068: //RootNode
+    400070: gutz00
+    400072: 'Hand Left Ref '
+    400074: 'Hand Right Ref '
+    400076: handle
+    400078: Head - Ref
+    400080: m3bone_root
+    400082: Mesh01
+    400084: Mesh02
+    400086: Mesh03
+    400088: Mesh05
+    400090: Mesh06
+    400092: Mesh07
+    400094: Mesh09
+    400096: Mesh11
+    400098: Mesh24
+    400100: Mesh25
+    400102: Mesh26
+    400104: Mesh27
+    400106: Object04
+    400108: 'Origin Ref '
+    400110: 'OverHead Ref '
+    400112: Weapon Ref
+    2300000: Footman1
+    2300002: Footman2
+    2300004: Footman3
+    2300006: Footman4
+    2300008: Footman5
+    3300000: Footman1
+    3300002: Footman2
+    3300004: Footman3
+    3300006: Footman4
+    3300008: Footman5
+    4300000: Footman1
+    4300002: Footman2
+    4300004: Footman3
+    4300006: Footman5
+    4300008: Footman4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

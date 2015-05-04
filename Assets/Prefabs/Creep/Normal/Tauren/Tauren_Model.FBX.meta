@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: b095e0c52e4177342a551f1a8ea9d554
+timeCreated: 1429939439
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bone_Chest
+    100004: Bone_ClavicalL
+    100006: Bone_ClavicalR
+    100008: Bone_FootL
+    100010: Bone_FootR
+    100012: Bone_HandL
+    100014: Bone_HandR
+    100016: Bone_Head
+    100018: Bone_Leg2L
+    100020: Bone_Leg2R
+    100022: Bone_Leg3L
+    100024: Bone_Leg3R
+    100026: Bone_LowerArmL
+    100028: Bone_LowerArmR
+    100030: Bone_Neck
+    100032: Bone_Pelvis
+    100034: Bone_Tail1
+    100036: Bone_Tail2
+    100038: Bone_Tail3
+    100040: Bone_Tail4
+    100042: Bone_Totum
+    100044: Bone_UpperArmL
+    100046: Bone_UpperArmR
+    100048: Bone_UpperlegL
+    100050: Bone_UpperlegR
+    100052: Chest Ref
+    100054: 'Foot Left Ref '
+    100056: 'Foot Right Ref '
+    100058: Geo_chest
+    100060: Geo_forearmR
+    100062: Geo_handL
+    100064: Geo_handR
+    100066: Geo_Head
+    100068: Geo_highR
+    100070: Geo_hips
+    100072: Geo_hoofL
+    100074: Geo_hoofR
+    100076: Geo_LowArmL
+    100078: Geo_lowershinL
+    100080: Geo_lowershinR
+    100082: Geo_Neck
+    100084: Geo_tail05
+    100086: Geo_tail06
+    100088: Geo_tail07
+    100090: Geo_tail08
+    100092: Geo_thighL
+    100094: Geo_UpArmL
+    100096: Geo_UpArmR
+    100098: Geo_uppershinL
+    100100: Geo_uppershinR
+    100102: gutz00
+    100104: 'Hand Left Ref '
+    100106: 'Hand Right Ref '
+    100108: Head - Ref
+    100110: m3bone_root
+    100112: 'Origin Ref '
+    100114: 'OverHead Ref '
+    100116: Root
+    100118: Tauren1
+    100120: Tauren2
+    100122: Tauren3
+    100124: //RootNode
+    100126: Totum
+    100128: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: Bone_Chest
+    400004: Bone_ClavicalL
+    400006: Bone_ClavicalR
+    400008: Bone_FootL
+    400010: Bone_FootR
+    400012: Bone_HandL
+    400014: Bone_HandR
+    400016: Bone_Head
+    400018: Bone_Leg2L
+    400020: Bone_Leg2R
+    400022: Bone_Leg3L
+    400024: Bone_Leg3R
+    400026: Bone_LowerArmL
+    400028: Bone_LowerArmR
+    400030: Bone_Neck
+    400032: Bone_Pelvis
+    400034: Bone_Tail1
+    400036: Bone_Tail2
+    400038: Bone_Tail3
+    400040: Bone_Tail4
+    400042: Bone_Totum
+    400044: Bone_UpperArmL
+    400046: Bone_UpperArmR
+    400048: Bone_UpperlegL
+    400050: Bone_UpperlegR
+    400052: Chest Ref
+    400054: 'Foot Left Ref '
+    400056: 'Foot Right Ref '
+    400058: Geo_chest
+    400060: Geo_forearmR
+    400062: Geo_handL
+    400064: Geo_handR
+    400066: Geo_Head
+    400068: Geo_highR
+    400070: Geo_hips
+    400072: Geo_hoofL
+    400074: Geo_hoofR
+    400076: Geo_LowArmL
+    400078: Geo_lowershinL
+    400080: Geo_lowershinR
+    400082: Geo_Neck
+    400084: Geo_tail05
+    400086: Geo_tail06
+    400088: Geo_tail07
+    400090: Geo_tail08
+    400092: Geo_thighL
+    400094: Geo_UpArmL
+    400096: Geo_UpArmR
+    400098: Geo_uppershinL
+    400100: Geo_uppershinR
+    400102: gutz00
+    400104: 'Hand Left Ref '
+    400106: 'Hand Right Ref '
+    400108: Head - Ref
+    400110: m3bone_root
+    400112: 'Origin Ref '
+    400114: 'OverHead Ref '
+    400116: Root
+    400118: Tauren1
+    400120: Tauren2
+    400122: Tauren3
+    400124: //RootNode
+    400126: Totum
+    400128: Weapon Ref
+    2300000: Tauren3
+    3300000: Tauren3
+    4300000: Tauren1
+    4300002: Tauren2
+    4300004: Tauren3
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: Tauren1
+    13700002: Tauren2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32500.002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Totum
+        weight: 1
+      - path: m3bone_root/Bone_Totum/Totum
+        weight: 1
+      - path: m3bone_root/Bone_Totum/Weapon Ref
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Tauren3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Root
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL/Geo_handL
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Geo_LowArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Geo_UpArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR/Geo_handR
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Geo_forearmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Geo_UpArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head/Geo_Head
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Geo_Neck
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Geo_chest
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Bone_Tail4
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Bone_Tail4/Geo_tail08
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Geo_tail07
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Geo_tail06
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Geo_tail05
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL/Geo_hoofL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Geo_lowershinL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Geo_uppershinL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Geo_thighL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR/Geo_hoofR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Geo_lowershinR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Geo_uppershinR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Geo_highR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Geo_hips
+        weight: 1
+      - path: Tauren1
+        weight: 1
+      - path: Tauren2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 942
+      lastFrame: 969
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Totum
+        weight: 1
+      - path: m3bone_root/Bone_Totum/Totum
+        weight: 1
+      - path: m3bone_root/Bone_Totum/Weapon Ref
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Tauren3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Root
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL/Geo_handL
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Geo_LowArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Geo_UpArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR/Geo_handR
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Geo_forearmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Geo_UpArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head/Geo_Head
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Geo_Neck
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Geo_chest
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Bone_Tail4
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Bone_Tail4/Geo_tail08
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Geo_tail07
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Geo_tail06
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Geo_tail05
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL/Geo_hoofL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Geo_lowershinL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Geo_uppershinL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Geo_thighL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR/Geo_hoofR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Geo_lowershinR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Geo_uppershinR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Geo_highR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Geo_hips
+        weight: 1
+      - path: Tauren1
+        weight: 1
+      - path: Tauren2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 1650
+      lastFrame: 1800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Totum
+        weight: 1
+      - path: m3bone_root/Bone_Totum/Totum
+        weight: 1
+      - path: m3bone_root/Bone_Totum/Weapon Ref
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Tauren3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Root
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL/Geo_handL
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Bone_HandL/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Bone_LowerArmL/Geo_LowArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalL/Bone_UpperArmL/Geo_UpArmL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR/Geo_handR
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Bone_HandR/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Bone_LowerArmR/Geo_forearmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_ClavicalR/Bone_UpperArmR/Geo_UpArmR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head/Geo_Head
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Bone_Neck/Geo_Neck
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Root/Bone_Chest/Geo_chest
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Bone_Tail4
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Bone_Tail4/Geo_tail08
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Bone_Tail3/Geo_tail07
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Bone_Tail2/Geo_tail06
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_Tail1/Geo_tail05
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Bone_FootL/Geo_hoofL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Bone_Leg3L/Geo_lowershinL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Bone_Leg2L/Geo_uppershinL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegL/Geo_thighL
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR
+        weight: 1
+      - path: 'm3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Bone_FootR/Geo_hoofR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Bone_Leg3R/Geo_lowershinR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Bone_Leg2R/Geo_uppershinR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Bone_UpperlegR/Geo_highR
+        weight: 1
+      - path: m3bone_root/Root/Bone_Pelvis/Geo_hips
+        weight: 1
+      - path: Tauren1
+        weight: 1
+      - path: Tauren2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

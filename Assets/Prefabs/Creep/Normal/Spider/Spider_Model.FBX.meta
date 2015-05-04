@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: f50ae903dedc4b04b9daafa994aec14f
+timeCreated: 1429939487
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: -Abdomen
+    100002: -Head
+    100004: -Leg_F1_01
+    100006: -Leg_F1_02
+    100008: -Leg_F1_03
+    100010: -Leg_F1_04
+    100012: -LegL_F1_01
+    100014: -LegL_F1_02
+    100016: -LegL_F1_03
+    100018: -LegL_F1_04
+    100020: -LegL_F2_01
+    100022: -LegL_F2_02
+    100024: -LegL_F2_03
+    100026: -Legl_F2_04
+    100028: -LegL_R1_01
+    100030: -LegL_R1_02
+    100032: -LegL_R1_03
+    100034: -LegL_R1_04
+    100036: -LegL_R2_01
+    100038: -LegL_R2_02
+    100040: -LegL_R2_03
+    100042: -LegL_R2_04
+    100044: -LegR_F2_01
+    100046: -LegR_F2_02
+    100048: -LegR_F2_03
+    100050: -LegR_F2_04
+    100052: -LegR_R1_01
+    100054: -LegR_R1_02
+    100056: -LegR_R1_03
+    100058: -LegR_R1_04
+    100060: -LegR_R2_01
+    100062: -LegR_R2_02
+    100064: -LegR_R2_03
+    100066: -LegR_R2_04
+    100068: -Thorax
+    100070: _M3_Anim_Data
+    100072: Chest Ref
+    100074: Foot Left Rear Ref
+    100076: 'Foot Left Ref '
+    100078: Foot Right Rear Ref
+    100080: 'Foot Right Ref '
+    100082: gutz00
+    100084: 'Hand Left Ref '
+    100086: 'Hand Right Ref '
+    100088: Head
+    100090: Head - Ref
+    100092: Leg_LF1_01
+    100094: Leg_LF1_02
+    100096: Leg_LF1_03
+    100098: Leg_LF1_04
+    100100: Leg_LF2_01
+    100102: Leg_LF2_02
+    100104: Leg_LF2_03
+    100106: Leg_LF2_04
+    100108: Leg_LR1_01
+    100110: Leg_LR1_02
+    100112: Leg_LR1_03
+    100114: Leg_LR1_04
+    100116: Leg_LR2_01
+    100118: Leg_LR2_02
+    100120: Leg_LR2_03
+    100122: Leg_LR2_04
+    100124: Leg_RF1_01
+    100126: Leg_RF1_02
+    100128: Leg_RF1_03
+    100130: Leg_RF1_04
+    100132: Leg_RF2_01
+    100134: Leg_RF2_02
+    100136: Leg_RF2_03
+    100138: Leg_RF2_04
+    100140: Leg_RR1_01
+    100142: Leg_RR1_02
+    100144: Leg_RR1_03
+    100146: Leg_RR1_04
+    100148: Leg_RR2_01
+    100150: Leg_RR2_02
+    100152: Leg_RR2_03
+    100154: Leg_RR2_04
+    100156: m3bone_root
+    100158: 'Origin Ref '
+    100160: 'OverHead Ref '
+    100162: Root
+    100164: //RootNode
+    100166: SpiderBlack1
+    100168: SpiderBlack2
+    100170: SpiderBlack3
+    100172: Thorax
+    100174: Weapon - Ref
+    400000: -Abdomen
+    400002: -Head
+    400004: -Leg_F1_01
+    400006: -Leg_F1_02
+    400008: -Leg_F1_03
+    400010: -Leg_F1_04
+    400012: -LegL_F1_01
+    400014: -LegL_F1_02
+    400016: -LegL_F1_03
+    400018: -LegL_F1_04
+    400020: -LegL_F2_01
+    400022: -LegL_F2_02
+    400024: -LegL_F2_03
+    400026: -Legl_F2_04
+    400028: -LegL_R1_01
+    400030: -LegL_R1_02
+    400032: -LegL_R1_03
+    400034: -LegL_R1_04
+    400036: -LegL_R2_01
+    400038: -LegL_R2_02
+    400040: -LegL_R2_03
+    400042: -LegL_R2_04
+    400044: -LegR_F2_01
+    400046: -LegR_F2_02
+    400048: -LegR_F2_03
+    400050: -LegR_F2_04
+    400052: -LegR_R1_01
+    400054: -LegR_R1_02
+    400056: -LegR_R1_03
+    400058: -LegR_R1_04
+    400060: -LegR_R2_01
+    400062: -LegR_R2_02
+    400064: -LegR_R2_03
+    400066: -LegR_R2_04
+    400068: -Thorax
+    400070: _M3_Anim_Data
+    400072: Chest Ref
+    400074: Foot Left Rear Ref
+    400076: 'Foot Left Ref '
+    400078: Foot Right Rear Ref
+    400080: 'Foot Right Ref '
+    400082: gutz00
+    400084: 'Hand Left Ref '
+    400086: 'Hand Right Ref '
+    400088: Head
+    400090: Head - Ref
+    400092: Leg_LF1_01
+    400094: Leg_LF1_02
+    400096: Leg_LF1_03
+    400098: Leg_LF1_04
+    400100: Leg_LF2_01
+    400102: Leg_LF2_02
+    400104: Leg_LF2_03
+    400106: Leg_LF2_04
+    400108: Leg_LR1_01
+    400110: Leg_LR1_02
+    400112: Leg_LR1_03
+    400114: Leg_LR1_04
+    400116: Leg_LR2_01
+    400118: Leg_LR2_02
+    400120: Leg_LR2_03
+    400122: Leg_LR2_04
+    400124: Leg_RF1_01
+    400126: Leg_RF1_02
+    400128: Leg_RF1_03
+    400130: Leg_RF1_04
+    400132: Leg_RF2_01
+    400134: Leg_RF2_02
+    400136: Leg_RF2_03
+    400138: Leg_RF2_04
+    400140: Leg_RR1_01
+    400142: Leg_RR1_02
+    400144: Leg_RR1_03
+    400146: Leg_RR1_04
+    400148: Leg_RR2_01
+    400150: Leg_RR2_02
+    400152: Leg_RR2_03
+    400154: Leg_RR2_04
+    400156: m3bone_root
+    400158: 'Origin Ref '
+    400160: 'OverHead Ref '
+    400162: Root
+    400164: //RootNode
+    400166: SpiderBlack1
+    400168: SpiderBlack2
+    400170: SpiderBlack3
+    400172: Thorax
+    400174: Weapon - Ref
+    2300000: SpiderBlack3
+    3300000: SpiderBlack3
+    4300000: SpiderBlack1
+    4300002: SpiderBlack2
+    4300004: SpiderBlack3
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: SpiderBlack1
+    13700002: SpiderBlack2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/SpiderBlack3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Root
+        weight: 1
+      - path: m3bone_root/Root/-Abdomen
+        weight: 1
+      - path: m3bone_root/Root/Head
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head/Weapon - Ref
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/-LegL_F1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/-LegL_F1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/-LegL_F1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04/-LegL_F1_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04/-LegL_F1_04/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/-LegL_F2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/-LegL_F2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/-LegL_F2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04/-Legl_F2_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04/-Legl_F2_04/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/-LegL_R1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/-LegL_R1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/-LegL_R1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/Leg_LR1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/Leg_LR1_04/-LegL_R1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/-LegL_R2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/-LegL_R2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/-LegL_R2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04/-LegL_R2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04/-LegL_R2_04/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/-Leg_F1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/-Leg_F1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/-Leg_F1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04/-Leg_F1_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04/-Leg_F1_04/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/-LegR_F2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/-LegR_F2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/-LegR_F2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04/-LegR_F2_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04/-LegR_F2_04/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/-LegR_R1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/-LegR_R1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/-LegR_R1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/Leg_RR1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/Leg_RR1_04/-LegR_R1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/-LegR_R2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/-LegR_R2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/-LegR_R2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04/-LegR_R2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04/-LegR_R2_04/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Root/Thorax
+        weight: 1
+      - path: m3bone_root/Root/Thorax/-Thorax
+        weight: 1
+      - path: m3bone_root/Root/Thorax/-Thorax/Chest Ref
+        weight: 1
+      - path: SpiderBlack1
+        weight: 1
+      - path: SpiderBlack2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/SpiderBlack3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Root
+        weight: 1
+      - path: m3bone_root/Root/-Abdomen
+        weight: 1
+      - path: m3bone_root/Root/Head
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head/Weapon - Ref
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/-LegL_F1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/-LegL_F1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/-LegL_F1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04/-LegL_F1_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04/-LegL_F1_04/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/-LegL_F2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/-LegL_F2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/-LegL_F2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04/-Legl_F2_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04/-Legl_F2_04/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/-LegL_R1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/-LegL_R1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/-LegL_R1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/Leg_LR1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/Leg_LR1_04/-LegL_R1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/-LegL_R2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/-LegL_R2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/-LegL_R2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04/-LegL_R2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04/-LegL_R2_04/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/-Leg_F1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/-Leg_F1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/-Leg_F1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04/-Leg_F1_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04/-Leg_F1_04/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/-LegR_F2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/-LegR_F2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/-LegR_F2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04/-LegR_F2_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04/-LegR_F2_04/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/-LegR_R1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/-LegR_R1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/-LegR_R1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/Leg_RR1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/Leg_RR1_04/-LegR_R1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/-LegR_R2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/-LegR_R2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/-LegR_R2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04/-LegR_R2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04/-LegR_R2_04/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Root/Thorax
+        weight: 1
+      - path: m3bone_root/Root/Thorax/-Thorax
+        weight: 1
+      - path: m3bone_root/Root/Thorax/-Thorax/Chest Ref
+        weight: 1
+      - path: SpiderBlack1
+        weight: 1
+      - path: SpiderBlack2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 728
+      lastFrame: 768
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/SpiderBlack3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Root
+        weight: 1
+      - path: m3bone_root/Root/-Abdomen
+        weight: 1
+      - path: m3bone_root/Root/Head
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Root/Head/-Head/Weapon - Ref
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/-LegL_F1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/-LegL_F1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/-LegL_F1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04/-LegL_F1_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_LF1_01/Leg_LF1_02/Leg_LF1_03/Leg_LF1_04/-LegL_F1_04/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/-LegL_F2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/-LegL_F2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/-LegL_F2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04/-Legl_F2_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_LF2_01/Leg_LF2_02/Leg_LF2_03/Leg_LF2_04/-Legl_F2_04/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/-LegL_R1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/-LegL_R1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/-LegL_R1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/Leg_LR1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR1_01/Leg_LR1_02/Leg_LR1_03/Leg_LR1_04/-LegL_R1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/-LegL_R2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/-LegL_R2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/-LegL_R2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04/-LegL_R2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_LR2_01/Leg_LR2_02/Leg_LR2_03/Leg_LR2_04/-LegL_R2_04/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/-Leg_F1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/-Leg_F1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/-Leg_F1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04/-Leg_F1_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_RF1_01/Leg_RF1_02/Leg_RF1_03/Leg_RF1_04/-Leg_F1_04/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/-LegR_F2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/-LegR_F2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/-LegR_F2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04/-LegR_F2_04
+        weight: 1
+      - path: 'm3bone_root/Root/Leg_RF2_01/Leg_RF2_02/Leg_RF2_03/Leg_RF2_04/-LegR_F2_04/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/-LegR_R1_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/-LegR_R1_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/-LegR_R1_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/Leg_RR1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR1_01/Leg_RR1_02/Leg_RR1_03/Leg_RR1_04/-LegR_R1_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/-LegR_R2_01
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/-LegR_R2_02
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/-LegR_R2_03
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04/-LegR_R2_04
+        weight: 1
+      - path: m3bone_root/Root/Leg_RR2_01/Leg_RR2_02/Leg_RR2_03/Leg_RR2_04/-LegR_R2_04/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Root/Thorax
+        weight: 1
+      - path: m3bone_root/Root/Thorax/-Thorax
+        weight: 1
+      - path: m3bone_root/Root/Thorax/-Thorax/Chest Ref
+        weight: 1
+      - path: SpiderBlack1
+        weight: 1
+      - path: SpiderBlack2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

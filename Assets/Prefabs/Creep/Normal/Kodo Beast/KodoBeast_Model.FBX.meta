@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: 89b370a3919fd6d45b828c97969083df
+timeCreated: 1430130526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Axe A
+    100004: Axe B
+    100006: Bone Back L Leg01
+    100008: Bone Back L Shin01
+    100010: Bone Back R Leg01
+    100012: Bone Back R Shin01
+    100014: Bone Back R Toe01
+    100016: Bone Center01
+    100018: Bone Front L Leg01
+    100020: Bone Front L Shin01
+    100022: Bone Front R Leg01
+    100024: Bone Front R Shin01
+    100026: Bone Front R Toe01
+    100028: Bone FrontL Toe01
+    100030: Bone Koto Head01
+    100032: Bone Koto Jaw
+    100034: Bone Koto Neck01
+    100036: Bone Koto Neck02
+    100038: Bone Koto Waist01
+    100040: Bone Object68
+    100042: Bone Rider L Arm
+    100044: Bone Rider L Hand
+    100046: Bone Rider L Wrist
+    100048: Bone Rider R Arm
+    100050: Bone Rider R Hand
+    100052: Bone Rider R Wrist
+    100054: Bone Tail 03
+    100056: Bone Tail 04
+    100058: Bone_Chest
+    100060: Bone_Head
+    100062: Chest Mount Left Ref
+    100064: Chest Mount Rear Ref
+    100066: Chest Mount Ref
+    100068: Chest Mount Right Ref
+    100070: Chest Ref
+    100072: DrumCanvas
+    100074: Drums
+    100076: explodegutz00
+    100078: explodegutz01
+    100080: explodegutz02
+    100082: explodegutz03
+    100084: explodegutz04
+    100086: explodegutz05
+    100088: explodegutz06
+    100090: explodegutz07
+    100092: Foot Left Rear Ref
+    100094: 'Foot Left Ref '
+    100096: Foot Right Rear Ref
+    100098: 'Foot Right Ref '
+    100100: FrontLegs
+    100102: gutz00
+    100104: Hand Left Ref
+    100106: Hand Right Ref
+    100108: Harness
+    100110: Head Mount - Ref
+    100112: Head Ref
+    100114: HindLegs
+    100116: Jaw
+    100118: //RootNode
+    100120: KotoBEAST
+    100122: KotoBeast1
+    100124: KotoBeast2
+    100126: KotoBeast3
+    100128: KotoBeast4
+    100130: KotoBeast5
+    100132: KotoBelly
+    100134: KotoChest
+    100136: KotoHEAD
+    100138: KotoNeck
+    100140: m3bone_root
+    100142: Mesh01
+    100144: Mesh02
+    100146: Mesh03
+    100148: Mesh04
+    100150: Mesh05
+    100152: Mesh06
+    100154: Mesh07
+    100156: Mesh08
+    100158: Mesh09
+    100160: Mesh10
+    100162: Mesh11
+    100164: Mesh12
+    100166: Mesh14
+    100168: Mesh15
+    100170: Mesh16
+    100172: Mesh17
+    100174: Mesh18
+    100176: Mesh19
+    100178: Mesh20
+    100180: Mesh27
+    100182: Mesh28
+    100184: Mesh29
+    100186: Mesh30
+    100188: Mesh31
+    100190: Mesh32
+    100192: Mesh33
+    100194: Mesh34
+    100196: Mesh35
+    100198: Mesh36
+    100200: Mesh37
+    100202: Mesh38
+    100204: Mesh43
+    100206: Object01
+    100208: Object02
+    100210: Object06
+    100212: Object07
+    100214: 'Origin Ref '
+    100216: 'OverHead Ref '
+    100218: TailA
+    100220: TailB
+    100222: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: Axe A
+    400004: Axe B
+    400006: Bone Back L Leg01
+    400008: Bone Back L Shin01
+    400010: Bone Back R Leg01
+    400012: Bone Back R Shin01
+    400014: Bone Back R Toe01
+    400016: Bone Center01
+    400018: Bone Front L Leg01
+    400020: Bone Front L Shin01
+    400022: Bone Front R Leg01
+    400024: Bone Front R Shin01
+    400026: Bone Front R Toe01
+    400028: Bone FrontL Toe01
+    400030: Bone Koto Head01
+    400032: Bone Koto Jaw
+    400034: Bone Koto Neck01
+    400036: Bone Koto Neck02
+    400038: Bone Koto Waist01
+    400040: Bone Object68
+    400042: Bone Rider L Arm
+    400044: Bone Rider L Hand
+    400046: Bone Rider L Wrist
+    400048: Bone Rider R Arm
+    400050: Bone Rider R Hand
+    400052: Bone Rider R Wrist
+    400054: Bone Tail 03
+    400056: Bone Tail 04
+    400058: Bone_Chest
+    400060: Bone_Head
+    400062: Chest Mount Left Ref
+    400064: Chest Mount Rear Ref
+    400066: Chest Mount Ref
+    400068: Chest Mount Right Ref
+    400070: Chest Ref
+    400072: DrumCanvas
+    400074: Drums
+    400076: explodegutz00
+    400078: explodegutz01
+    400080: explodegutz02
+    400082: explodegutz03
+    400084: explodegutz04
+    400086: explodegutz05
+    400088: explodegutz06
+    400090: explodegutz07
+    400092: Foot Left Rear Ref
+    400094: 'Foot Left Ref '
+    400096: Foot Right Rear Ref
+    400098: 'Foot Right Ref '
+    400100: FrontLegs
+    400102: gutz00
+    400104: Hand Left Ref
+    400106: Hand Right Ref
+    400108: Harness
+    400110: Head Mount - Ref
+    400112: Head Ref
+    400114: HindLegs
+    400116: Jaw
+    400118: //RootNode
+    400120: KotoBEAST
+    400122: KotoBeast1
+    400124: KotoBeast2
+    400126: KotoBeast3
+    400128: KotoBeast4
+    400130: KotoBeast5
+    400132: KotoBelly
+    400134: KotoChest
+    400136: KotoHEAD
+    400138: KotoNeck
+    400140: m3bone_root
+    400142: Mesh01
+    400144: Mesh02
+    400146: Mesh03
+    400148: Mesh04
+    400150: Mesh05
+    400152: Mesh06
+    400154: Mesh07
+    400156: Mesh08
+    400158: Mesh09
+    400160: Mesh10
+    400162: Mesh11
+    400164: Mesh12
+    400166: Mesh14
+    400168: Mesh15
+    400170: Mesh16
+    400172: Mesh17
+    400174: Mesh18
+    400176: Mesh19
+    400178: Mesh20
+    400180: Mesh27
+    400182: Mesh28
+    400184: Mesh29
+    400186: Mesh30
+    400188: Mesh31
+    400190: Mesh32
+    400192: Mesh33
+    400194: Mesh34
+    400196: Mesh35
+    400198: Mesh36
+    400200: Mesh37
+    400202: Mesh38
+    400204: Mesh43
+    400206: Object01
+    400208: Object02
+    400210: Object06
+    400212: Object07
+    400214: 'Origin Ref '
+    400216: 'OverHead Ref '
+    400218: TailA
+    400220: TailB
+    400222: Weapon Ref
+    2300000: KotoBeast5
+    3300000: KotoBeast5
+    4300000: KotoBeast1
+    4300002: KotoBeast2
+    4300004: KotoBeast3
+    4300006: KotoBeast4
+    4300008: KotoBeast5
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: KotoBeast1
+    13700002: KotoBeast2
+    13700004: KotoBeast3
+    13700006: KotoBeast4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 23354
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: KotoBeast1
+        weight: 1
+      - path: KotoBeast2
+        weight: 1
+      - path: KotoBeast3
+        weight: 1
+      - path: KotoBeast4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone Center01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Bone FrontL Toe01
+        weight: 1
+      - path: 'm3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone
+          Front L Shin01/Bone FrontL Toe01/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Bone FrontL Toe01/Mesh06
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Mesh05
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Bone Front R Toe01
+        weight: 1
+      - path: 'm3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone
+          Front R Shin01/Bone Front R Toe01/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Bone Front R Toe01/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Mesh02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/FrontLegs
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw/Jaw
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw/Object06
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Head Mount - Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD/Mesh43
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD/Object07
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Mesh37
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Weapon Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Harness
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/KotoNeck
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/KotoChest
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68/Foot Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68/Mesh08
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Mesh09
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Mesh10
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01/Foot Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01/Mesh03
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Mesh04
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/HindLegs
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/Bone Tail 04
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/Bone Tail 04/TailB
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/TailA
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19/Axe B
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19/Hand Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Mesh18
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Mesh20
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Hand Right Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Mesh14
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Mesh14/Axe A
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Mesh15
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Mesh16
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head/Object02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh28
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh30
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh32
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh34
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh36
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Object01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/KotoBEAST
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/DrumCanvas
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh27
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh29
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh31
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh33
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh35
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone Center01/KotoBelly
+        weight: 1
+      - path: m3bone_root/explodegutz00
+        weight: 1
+      - path: m3bone_root/explodegutz01
+        weight: 1
+      - path: m3bone_root/explodegutz02
+        weight: 1
+      - path: m3bone_root/explodegutz03
+        weight: 1
+      - path: m3bone_root/explodegutz04
+        weight: 1
+      - path: m3bone_root/explodegutz05
+        weight: 1
+      - path: m3bone_root/explodegutz06
+        weight: 1
+      - path: m3bone_root/explodegutz07
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/KotoBeast5
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 5155
+      lastFrame: 5204
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: KotoBeast1
+        weight: 1
+      - path: KotoBeast2
+        weight: 1
+      - path: KotoBeast3
+        weight: 1
+      - path: KotoBeast4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone Center01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Bone FrontL Toe01
+        weight: 1
+      - path: 'm3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone
+          Front L Shin01/Bone FrontL Toe01/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Bone FrontL Toe01/Mesh06
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Mesh05
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Bone Front R Toe01
+        weight: 1
+      - path: 'm3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone
+          Front R Shin01/Bone Front R Toe01/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Bone Front R Toe01/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Mesh02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/FrontLegs
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw/Jaw
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw/Object06
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Head Mount - Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD/Mesh43
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD/Object07
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Mesh37
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Weapon Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Harness
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/KotoNeck
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/KotoChest
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68/Foot Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68/Mesh08
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Mesh09
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Mesh10
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01/Foot Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01/Mesh03
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Mesh04
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/HindLegs
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/Bone Tail 04
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/Bone Tail 04/TailB
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/TailA
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19/Axe B
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19/Hand Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Mesh18
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Mesh20
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Hand Right Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Mesh14
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Mesh14/Axe A
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Mesh15
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Mesh16
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head/Object02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh28
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh30
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh32
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh34
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh36
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Object01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/KotoBEAST
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/DrumCanvas
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh27
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh29
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh31
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh33
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh35
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone Center01/KotoBelly
+        weight: 1
+      - path: m3bone_root/explodegutz00
+        weight: 1
+      - path: m3bone_root/explodegutz01
+        weight: 1
+      - path: m3bone_root/explodegutz02
+        weight: 1
+      - path: m3bone_root/explodegutz03
+        weight: 1
+      - path: m3bone_root/explodegutz04
+        weight: 1
+      - path: m3bone_root/explodegutz05
+        weight: 1
+      - path: m3bone_root/explodegutz06
+        weight: 1
+      - path: m3bone_root/explodegutz07
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/KotoBeast5
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 328
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: KotoBeast1
+        weight: 1
+      - path: KotoBeast2
+        weight: 1
+      - path: KotoBeast3
+        weight: 1
+      - path: KotoBeast4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone Center01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Bone FrontL Toe01
+        weight: 1
+      - path: 'm3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone
+          Front L Shin01/Bone FrontL Toe01/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Bone FrontL Toe01/Mesh06
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Bone Front
+          L Shin01/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front L Leg01/Mesh05
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Bone Front R Toe01
+        weight: 1
+      - path: 'm3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone
+          Front R Shin01/Bone Front R Toe01/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Bone Front R Toe01/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/Bone Front
+          R Shin01/Mesh02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Front R Leg01/FrontLegs
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw/Jaw
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Bone Koto Jaw/Object06
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Head Mount - Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD/Mesh43
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/KotoHEAD/Object07
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Mesh37
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Bone Koto
+          Head01/Weapon Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Harness
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/KotoNeck
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Bone Koto Neck01/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Neck02/KotoChest
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68/Foot Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Bone Object68/Mesh08
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Bone Back
+          L Shin01/Mesh09
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back L Leg01/Mesh10
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01/Foot Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Bone Back R Toe01/Mesh03
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/Bone Back
+          R Shin01/Mesh04
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Back R Leg01/HindLegs
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/Bone Tail 04
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/Bone Tail 04/TailB
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone Tail 03/TailA
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19/Axe B
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Bone Rider L Hand/Mesh19/Hand Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Bone Rider L Wrist/Mesh18
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider L
+          Arm/Mesh20
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Hand Right Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Mesh14
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Bone Rider R Hand/Mesh14/Axe A
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Bone Rider R Wrist/Mesh15
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone Rider R
+          Arm/Mesh16
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Bone_Head/Object02
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Bone_Chest/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh28
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh30
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh32
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh34
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Mesh36
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Drums/Object01
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/KotoBEAST
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/DrumCanvas
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh27
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh29
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh31
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh33
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh11/Mesh35
+        weight: 1
+      - path: m3bone_root/Bone Center01/Bone Koto Waist01/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone Center01/KotoBelly
+        weight: 1
+      - path: m3bone_root/explodegutz00
+        weight: 1
+      - path: m3bone_root/explodegutz01
+        weight: 1
+      - path: m3bone_root/explodegutz02
+        weight: 1
+      - path: m3bone_root/explodegutz03
+        weight: 1
+      - path: m3bone_root/explodegutz04
+        weight: 1
+      - path: m3bone_root/explodegutz05
+        weight: 1
+      - path: m3bone_root/explodegutz06
+        weight: 1
+      - path: m3bone_root/explodegutz07
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/KotoBeast5
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
