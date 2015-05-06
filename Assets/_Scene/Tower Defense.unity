@@ -37499,6 +37499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   monster: {fileID: 179378, guid: 064cbef03fa65b24eb0013b6a794f0d2, type: 2}
   spawnRate: 3
+  spawnTime: 0
 --- !u!4 &1457373031
 Transform:
   m_ObjectHideFlags: 0
