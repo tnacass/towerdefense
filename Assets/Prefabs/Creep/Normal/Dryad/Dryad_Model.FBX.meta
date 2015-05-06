@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 2fa3b6d3f153f0247a01eba0c94f3450
+timeCreated: 1430130515
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: BONE_ABDOMEN
+    100004: Bone_Arm1_L
+    100006: Bone_Arm1_R
+    100008: Bone_Arm2_L
+    100010: Bone_Arm2_R
+    100012: BONE_CHEST
+    100014: Bone_Chest
+    100016: Bone_Hand_L
+    100018: Bone_Hand_R
+    100020: Bone_Head
+    100022: Bone_Hoof_Front_L
+    100024: Bone_Hoof_Front_R
+    100026: Bone_Hoof_Rear_L\
+    100028: Bone_Hoof_Rear_R\\
+    100030: Bone_Leg1_Front_L
+    100032: Bone_Leg1_Front_R
+    100034: Bone_Leg1_Rear_L
+    100036: Bone_Leg1_Rear_R
+    100038: Bone_Leg2_Front_L
+    100040: Bone_Leg2_Front_R
+    100042: Bone_Leg2_Rear_L
+    100044: Bone_Leg2_Rear_R
+    100046: Bone_Leg3_Front_L\
+    100048: Bone_Leg3_Front_R
+    100050: Bone_Leg3_Rear_L
+    100052: Bone_Leg3_Rear_R
+    100054: BONE_PELVIS
+    100056: Bone_Pelvis
+    100058: BONE_TAIL1
+    100060: breath
+    100062: Chest Mount Left Ref
+    100064: Chest Mount Rear Ref
+    100066: Chest Mount Ref
+    100068: Chest Mount Right Ref
+    100070: Chest Ref
+    100072: deadspear
+    100074: Dryad1
+    100076: Dryad2
+    100078: Dryad3
+    100080: Dryad4
+    100082: Dryad5
+    100084: Dryad6
+    100086: Dryad7
+    100088: Dryad8
+    100090: //RootNode
+    100092: Foot Left Rear Ref
+    100094: 'Foot Left Ref '
+    100096: Foot Right Rear Ref
+    100098: 'Foot Right Ref '
+    100100: gutz00
+    100102: 'Hand Left Ref '
+    100104: 'Hand Right Ref '
+    100106: Head - Ref
+    100108: m3bone_root
+    100110: Mesh01
+    100112: Mesh02
+    100114: Mesh04
+    100116: Mesh05
+    100118: Mesh06
+    100120: Mesh07
+    100122: Mesh08
+    100124: Mesh09
+    100126: Mesh10
+    100128: Mesh11
+    100130: Mesh12
+    100132: Mesh13
+    100134: Mesh14
+    100136: Mesh15
+    100138: Mesh16
+    100140: Mesh17
+    100142: Mesh18
+    100144: Mesh20
+    100146: Mesh21
+    100148: Mesh22
+    100150: Mesh23
+    100152: Mesh24
+    100154: Mesh25
+    100156: Mesh26
+    100158: Mesh27
+    100160: Mesh31
+    100162: Mesh32
+    100164: Mesh33
+    100166: Mesh36
+    100168: Mesh37
+    100170: Mesh39
+    100172: Object02
+    100174: Object14
+    100176: Object16
+    100178: 'Origin Ref '
+    100180: 'OverHead Ref '
+    100182: Plane01
+    100184: Plane14
+    100186: spear
+    100188: Sphere01
+    100190: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: BONE_ABDOMEN
+    400004: Bone_Arm1_L
+    400006: Bone_Arm1_R
+    400008: Bone_Arm2_L
+    400010: Bone_Arm2_R
+    400012: BONE_CHEST
+    400014: Bone_Chest
+    400016: Bone_Hand_L
+    400018: Bone_Hand_R
+    400020: Bone_Head
+    400022: Bone_Hoof_Front_L
+    400024: Bone_Hoof_Front_R
+    400026: Bone_Hoof_Rear_L\
+    400028: Bone_Hoof_Rear_R\\
+    400030: Bone_Leg1_Front_L
+    400032: Bone_Leg1_Front_R
+    400034: Bone_Leg1_Rear_L
+    400036: Bone_Leg1_Rear_R
+    400038: Bone_Leg2_Front_L
+    400040: Bone_Leg2_Front_R
+    400042: Bone_Leg2_Rear_L
+    400044: Bone_Leg2_Rear_R
+    400046: Bone_Leg3_Front_L\
+    400048: Bone_Leg3_Front_R
+    400050: Bone_Leg3_Rear_L
+    400052: Bone_Leg3_Rear_R
+    400054: BONE_PELVIS
+    400056: Bone_Pelvis
+    400058: BONE_TAIL1
+    400060: breath
+    400062: Chest Mount Left Ref
+    400064: Chest Mount Rear Ref
+    400066: Chest Mount Ref
+    400068: Chest Mount Right Ref
+    400070: Chest Ref
+    400072: deadspear
+    400074: Dryad1
+    400076: Dryad2
+    400078: Dryad3
+    400080: Dryad4
+    400082: Dryad5
+    400084: Dryad6
+    400086: Dryad7
+    400088: Dryad8
+    400090: //RootNode
+    400092: Foot Left Rear Ref
+    400094: 'Foot Left Ref '
+    400096: Foot Right Rear Ref
+    400098: 'Foot Right Ref '
+    400100: gutz00
+    400102: 'Hand Left Ref '
+    400104: 'Hand Right Ref '
+    400106: Head - Ref
+    400108: m3bone_root
+    400110: Mesh01
+    400112: Mesh02
+    400114: Mesh04
+    400116: Mesh05
+    400118: Mesh06
+    400120: Mesh07
+    400122: Mesh08
+    400124: Mesh09
+    400126: Mesh10
+    400128: Mesh11
+    400130: Mesh12
+    400132: Mesh13
+    400134: Mesh14
+    400136: Mesh15
+    400138: Mesh16
+    400140: Mesh17
+    400142: Mesh18
+    400144: Mesh20
+    400146: Mesh21
+    400148: Mesh22
+    400150: Mesh23
+    400152: Mesh24
+    400154: Mesh25
+    400156: Mesh26
+    400158: Mesh27
+    400160: Mesh31
+    400162: Mesh32
+    400164: Mesh33
+    400166: Mesh36
+    400168: Mesh37
+    400170: Mesh39
+    400172: Object02
+    400174: Object14
+    400176: Object16
+    400178: 'Origin Ref '
+    400180: 'OverHead Ref '
+    400182: Plane01
+    400184: Plane14
+    400186: spear
+    400188: Sphere01
+    400190: Weapon Ref
+    2300000: Dryad3
+    2300002: Dryad5
+    2300004: Dryad6
+    2300006: Dryad8
+    3300000: Dryad3
+    3300002: Dryad5
+    3300004: Dryad6
+    3300006: Dryad8
+    4300000: Dryad1
+    4300002: Dryad2
+    4300004: Dryad4
+    4300006: Dryad7
+    4300008: Dryad6
+    4300010: Dryad8
+    4300012: Dryad3
+    4300014: Dryad5
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: Dryad1
+    13700002: Dryad2
+    13700004: Dryad4
+    13700006: Dryad7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 36033
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Dryad1
+        weight: 1
+      - path: Dryad2
+        weight: 1
+      - path: Dryad4
+        weight: 1
+      - path: Dryad7
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L/Mesh05
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Mesh09
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Mesh14
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Mesh16
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R/Mesh04
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Mesh08
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Mesh15
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Mesh17
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Dryad3
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01/Mesh02
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01/Mesh02/Mesh01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Mesh26
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Mesh27
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Mesh23
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Mesh25
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Object02
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Head
+          - Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36/Mesh37
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36/Mesh37/Mesh39
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14/Object16
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14/Object16/Dryad5
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Mesh22
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Mesh21
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/breath
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Mesh20
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\/Mesh07
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Mesh10
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Mesh12
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Mesh32
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\/Mesh06
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Mesh11
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Mesh13
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Mesh33
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1/Sphere01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1/Sphere01/Mesh31
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Mesh18
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/deadspear
+        weight: 1
+      - path: m3bone_root/deadspear/Dryad6
+        weight: 1
+      - path: m3bone_root/deadspear/Plane14
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Dryad8
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 557
+      lastFrame: 573
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Dryad1
+        weight: 1
+      - path: Dryad2
+        weight: 1
+      - path: Dryad4
+        weight: 1
+      - path: Dryad7
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L/Mesh05
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Mesh09
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Mesh14
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Mesh16
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R/Mesh04
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Mesh08
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Mesh15
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Mesh17
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Dryad3
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01/Mesh02
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01/Mesh02/Mesh01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Mesh26
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Mesh27
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Mesh23
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Mesh25
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Object02
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Head
+          - Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36/Mesh37
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36/Mesh37/Mesh39
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14/Object16
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14/Object16/Dryad5
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Mesh22
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Mesh21
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/breath
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Mesh20
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\/Mesh07
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Mesh10
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Mesh12
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Mesh32
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\/Mesh06
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Mesh11
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Mesh13
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Mesh33
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1/Sphere01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1/Sphere01/Mesh31
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Mesh18
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/deadspear
+        weight: 1
+      - path: m3bone_root/deadspear/Dryad6
+        weight: 1
+      - path: m3bone_root/deadspear/Plane14
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Dryad8
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 431
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Dryad1
+        weight: 1
+      - path: Dryad2
+        weight: 1
+      - path: Dryad4
+        weight: 1
+      - path: Dryad7
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Bone_Hoof_Front_L/Mesh05
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Bone_Leg3_Front_L\/Mesh09
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Bone_Leg2_Front_L/Mesh14
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_L/Mesh16
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Bone_Hoof_Front_R/Mesh04
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Bone_Leg3_Front_R/Mesh08
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Bone_Leg2_Front_R/Mesh15
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Leg1_Front_R/Mesh17
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Dryad3
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01/Mesh02
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Mesh24/spear/Plane01/Mesh02/Mesh01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Mesh26
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_L/Mesh27
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: 'm3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Hand
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Mesh23
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Mesh25
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Arm1_R/Object02
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Head
+          - Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36/Mesh37
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Mesh36/Mesh37/Mesh39
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14/Object16
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Bone_Head/Object14/Object16/Dryad5
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Bone_Chest/Mesh22
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Bone_Pelvis/Mesh21
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/breath
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Chest Mount Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_CHEST/Mesh20
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Bone_Hoof_Rear_L\/Mesh07
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Bone_Leg3_Rear_L/Mesh10
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Bone_Leg2_Rear_L/Mesh12
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_L/Mesh32
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Bone_Hoof_Rear_R\\/Mesh06
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Bone_Leg3_Rear_R/Mesh11
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Bone_Leg2_Rear_R/Mesh13
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Bone_Leg1_Rear_R/Mesh33
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1/Sphere01
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/BONE_TAIL1/Sphere01/Mesh31
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Chest Mount Rear Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/BONE_PELVIS/Mesh18
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/Chest Mount Left Ref
+        weight: 1
+      - path: m3bone_root/BONE_ABDOMEN/Chest Mount Right Ref
+        weight: 1
+      - path: m3bone_root/deadspear
+        weight: 1
+      - path: m3bone_root/deadspear/Dryad6
+        weight: 1
+      - path: m3bone_root/deadspear/Plane14
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Dryad8
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

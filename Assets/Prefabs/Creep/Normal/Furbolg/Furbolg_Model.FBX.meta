@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 0ea86590bfd6f914a8667ae638ef52dc
+timeCreated: 1429939283
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: ArmLowL
+    100004: ArmLowR
+    100006: ArmUpperL
+    100008: ArmUpperR
+    100010: belly
+    100012: Bone_Head
+    100014: calve_L
+    100016: calve_R
+    100018: Chest
+    100020: Chest Ref
+    100022: 'Foot Left Ref '
+    100024: 'Foot Right Ref '
+    100026: foot_L
+    100028: foot_R
+    100030: FootL
+    100032: FootR
+    100034: forearm_L
+    100036: forearm_R
+    100038: Furbolg1
+    100040: Furbolg2
+    100042: Furbolg3
+    100044: //RootNode
+    100046: gutz00
+    100048: 'Hand Left Ref '
+    100050: 'Hand Right Ref '
+    100052: hand_L
+    100054: hand_R
+    100056: Head - Ref
+    100058: Head01
+    100060: knee_L
+    100062: knee_R
+    100064: m3bone_root
+    100066: Neck
+    100068: 'Origin Ref '
+    100070: 'OverHead Ref '
+    100072: Pelvis
+    100074: ShinL
+    100076: ShinR
+    100078: SpineLow
+    100080: Stomach
+    100082: thigh_L
+    100084: thigh_R
+    100086: ThighL
+    100088: ThighR
+    100090: toe_L
+    100092: toe_R
+    100094: Torso
+    100096: UpArmL
+    100098: UpArmR
+    100100: Waist
+    100102: Weapon Left Ref
+    100104: Weapon Right Ref
+    400000: _M3_Anim_Data
+    400002: ArmLowL
+    400004: ArmLowR
+    400006: ArmUpperL
+    400008: ArmUpperR
+    400010: belly
+    400012: Bone_Head
+    400014: calve_L
+    400016: calve_R
+    400018: Chest
+    400020: Chest Ref
+    400022: 'Foot Left Ref '
+    400024: 'Foot Right Ref '
+    400026: foot_L
+    400028: foot_R
+    400030: FootL
+    400032: FootR
+    400034: forearm_L
+    400036: forearm_R
+    400038: Furbolg1
+    400040: Furbolg2
+    400042: Furbolg3
+    400044: //RootNode
+    400046: gutz00
+    400048: 'Hand Left Ref '
+    400050: 'Hand Right Ref '
+    400052: hand_L
+    400054: hand_R
+    400056: Head - Ref
+    400058: Head01
+    400060: knee_L
+    400062: knee_R
+    400064: m3bone_root
+    400066: Neck
+    400068: 'Origin Ref '
+    400070: 'OverHead Ref '
+    400072: Pelvis
+    400074: ShinL
+    400076: ShinR
+    400078: SpineLow
+    400080: Stomach
+    400082: thigh_L
+    400084: thigh_R
+    400086: ThighL
+    400088: ThighR
+    400090: toe_L
+    400092: toe_R
+    400094: Torso
+    400096: UpArmL
+    400098: UpArmR
+    400100: Waist
+    400102: Weapon Left Ref
+    400104: Weapon Right Ref
+    2300000: Furbolg2
+    2300002: Furbolg3
+    3300000: Furbolg2
+    3300002: Furbolg3
+    4300000: Furbolg1
+    4300002: Furbolg3
+    4300004: Furbolg2
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: Furbolg1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Furbolg1
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Furbolg3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow
+        weight: 1
+      - path: m3bone_root/SpineLow/Pelvis
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L/FootL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L/toe_L
+        weight: 1
+      - path: 'm3bone_root/SpineLow/thigh_L/calve_L/foot_L/toe_L/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/knee_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/ShinL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/ThighL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R/FootR
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R/toe_R
+        weight: 1
+      - path: 'm3bone_root/SpineLow/thigh_R/calve_R/foot_R/toe_R/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/knee_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/ShinR
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/ThighR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/belly
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/belly/Stomach
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head/Head01
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/ArmUpperL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/ArmLowL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L
+        weight: 1
+      - path: 'm3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L/Hand Left
+          Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L/Weapon Left
+          Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/ArmUpperR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/ArmLowR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R
+        weight: 1
+      - path: 'm3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R/Hand Right
+          Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R/Weapon Right
+          Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Torso
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Torso/Furbolg2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 312
+      lastFrame: 333
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Furbolg1
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Furbolg3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow
+        weight: 1
+      - path: m3bone_root/SpineLow/Pelvis
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L/FootL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L/toe_L
+        weight: 1
+      - path: 'm3bone_root/SpineLow/thigh_L/calve_L/foot_L/toe_L/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/knee_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/ShinL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/ThighL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R/FootR
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R/toe_R
+        weight: 1
+      - path: 'm3bone_root/SpineLow/thigh_R/calve_R/foot_R/toe_R/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/knee_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/ShinR
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/ThighR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/belly
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/belly/Stomach
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head/Head01
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/ArmUpperL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/ArmLowL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L
+        weight: 1
+      - path: 'm3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L/Hand Left
+          Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L/Weapon Left
+          Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/ArmUpperR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/ArmLowR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R
+        weight: 1
+      - path: 'm3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R/Hand Right
+          Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R/Weapon Right
+          Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Torso
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Torso/Furbolg2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 936
+      lastFrame: 1070
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Furbolg1
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Furbolg3
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow
+        weight: 1
+      - path: m3bone_root/SpineLow/Pelvis
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L/FootL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/foot_L/toe_L
+        weight: 1
+      - path: 'm3bone_root/SpineLow/thigh_L/calve_L/foot_L/toe_L/Foot Left Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/knee_L
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/calve_L/ShinL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_L/ThighL
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R/FootR
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/foot_R/toe_R
+        weight: 1
+      - path: 'm3bone_root/SpineLow/thigh_R/calve_R/foot_R/toe_R/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/knee_R
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/calve_R/ShinR
+        weight: 1
+      - path: m3bone_root/SpineLow/thigh_R/ThighR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/belly
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/belly/Stomach
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/Neck/Bone_Head/Head01
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/ArmUpperL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/ArmLowL
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L
+        weight: 1
+      - path: 'm3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L/Hand Left
+          Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmL/forearm_L/hand_L/Weapon Left
+          Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/ArmUpperR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/ArmLowR
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R
+        weight: 1
+      - path: 'm3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R/Hand Right
+          Ref '
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Chest/UpArmR/forearm_R/hand_R/Weapon Right
+          Ref
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Torso
+        weight: 1
+      - path: m3bone_root/SpineLow/Waist/Torso/Furbolg2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

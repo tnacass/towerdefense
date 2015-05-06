@@ -4,13 +4,13 @@ using System.Collections;
 public class Health : MonoBehaviour {
 
 
-	public TextMesh castleHealth;
+	private TextMesh health;
 
 	// Use this for initialization
 	void Start () 
 	{
 
-		castleHealth = GetComponent<TextMesh>() ;
+		health = GetComponent<TextMesh>() ;
 	
 	}
 	
@@ -27,7 +27,7 @@ public class Health : MonoBehaviour {
 	public int CurrentHealth() 
 	{
 		
-		return castleHealth.text.Length;
+		return health.text.Length;
 		
 	}
 	
@@ -38,15 +38,20 @@ public class Health : MonoBehaviour {
 	public void DecreaseHealth() 
 	{
 		
-		if (CurrentHealth() > 1)
+		if (CurrentHealth () > 1) {
 			
-			castleHealth.text = castleHealth.text.Remove(castleHealth.text.Length - 1);
-		
-		else
+			health.text = health.text.Remove (health.text.Length - 1);
+		} else {
 			
-			Destroy(transform.parent.gameObject);
+			Destroy (transform.parent.gameObject);
+			if(transform.parent.gameObject.tag == "Castle")
+			{
+				Application.LoadLevel(2);
+			}
+		}
 		
 	}
+
 
 
 }

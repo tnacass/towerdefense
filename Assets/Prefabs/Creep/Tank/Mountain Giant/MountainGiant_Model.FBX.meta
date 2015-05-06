@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 4187bc7b2561bfc459c7d0223ec02cb1
+timeCreated: 1430130484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bone Tree A01
+    100004: Bone Tree A02
+    100006: Bone Tree A03
+    100008: Bone Tree A04
+    100010: Bone Tree A05
+    100012: Bone_Arm1_L
+    100014: Bone_Arm1_R
+    100016: Bone_Arm2_L
+    100018: Bone_Arm2_R
+    100020: Bone_Chest
+    100022: Bone_Foot_L
+    100024: Bone_Foot_L01
+    100026: Bone_Foot_R
+    100028: Bone_Foot_R01
+    100030: Bone_Hand_L
+    100032: Bone_Hand_L01
+    100034: Bone_Hand_L02
+    100036: Bone_Hand_L03
+    100038: Bone_Hand_R
+    100040: Bone_Hand_R01
+    100042: Bone_Hand_R02
+    100044: Bone_Hand_R03
+    100046: Bone_Head
+    100048: Bone_Leg1_L
+    100050: Bone_Leg1_R
+    100052: Bone_Leg2_L
+    100054: Bone_Leg2_R
+    100056: Bone_Pelvis
+    100058: Bone_Root
+    100060: Chest Ref
+    100062: 'Foot Left Ref '
+    100064: 'Foot Right Ref '
+    100066: 'Hand Left Ref '
+    100068: 'Hand Right Ref '
+    100070: Head - Ref
+    100072: m3bone_root
+    100074: Mesh03
+    100076: Mesh07
+    100078: Mesh09
+    100080: Mesh12
+    100082: Mesh13
+    100084: Mesh17
+    100086: Mesh28
+    100088: Mesh31
+    100090: Mesh32
+    100092: Mesh36
+    100094: Mesh37
+    100096: Mesh38
+    100098: Mesh39
+    100100: Mesh40
+    100102: Mesh41
+    100104: MountainGiant1
+    100106: MountainGiant2
+    100108: MountainGiant3
+    100110: MountainGiant4
+    100112: MountainGiant5
+    100114: //RootNode
+    100116: Object01
+    100118: Object02
+    100120: Object05
+    100122: Object06
+    100124: Object09
+    100126: Object10
+    100128: Object12
+    100130: Object13
+    100132: Object14
+    100134: Object15
+    100136: Object16
+    100138: 'Origin Ref '
+    100140: 'OverHead Ref '
+    100142: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: Bone Tree A01
+    400004: Bone Tree A02
+    400006: Bone Tree A03
+    400008: Bone Tree A04
+    400010: Bone Tree A05
+    400012: Bone_Arm1_L
+    400014: Bone_Arm1_R
+    400016: Bone_Arm2_L
+    400018: Bone_Arm2_R
+    400020: Bone_Chest
+    400022: Bone_Foot_L
+    400024: Bone_Foot_L01
+    400026: Bone_Foot_R
+    400028: Bone_Foot_R01
+    400030: Bone_Hand_L
+    400032: Bone_Hand_L01
+    400034: Bone_Hand_L02
+    400036: Bone_Hand_L03
+    400038: Bone_Hand_R
+    400040: Bone_Hand_R01
+    400042: Bone_Hand_R02
+    400044: Bone_Hand_R03
+    400046: Bone_Head
+    400048: Bone_Leg1_L
+    400050: Bone_Leg1_R
+    400052: Bone_Leg2_L
+    400054: Bone_Leg2_R
+    400056: Bone_Pelvis
+    400058: Bone_Root
+    400060: Chest Ref
+    400062: 'Foot Left Ref '
+    400064: 'Foot Right Ref '
+    400066: 'Hand Left Ref '
+    400068: 'Hand Right Ref '
+    400070: Head - Ref
+    400072: m3bone_root
+    400074: Mesh03
+    400076: Mesh07
+    400078: Mesh09
+    400080: Mesh12
+    400082: Mesh13
+    400084: Mesh17
+    400086: Mesh28
+    400088: Mesh31
+    400090: Mesh32
+    400092: Mesh36
+    400094: Mesh37
+    400096: Mesh38
+    400098: Mesh39
+    400100: Mesh40
+    400102: Mesh41
+    400104: MountainGiant1
+    400106: MountainGiant2
+    400108: MountainGiant3
+    400110: MountainGiant4
+    400112: MountainGiant5
+    400114: //RootNode
+    400116: Object01
+    400118: Object02
+    400120: Object05
+    400122: Object06
+    400124: Object09
+    400126: Object10
+    400128: Object12
+    400130: Object13
+    400132: Object14
+    400134: Object15
+    400136: Object16
+    400138: 'Origin Ref '
+    400140: 'OverHead Ref '
+    400142: Weapon Ref
+    4300000: MountainGiant1
+    4300002: MountainGiant2
+    4300004: MountainGiant3
+    4300006: MountainGiant4
+    4300008: MountainGiant5
+    7400000: Take 001
+    7400002: Run
+    7400004: Death
+    9500000: //RootNode
+    13700000: MountainGiant1
+    13700002: MountainGiant2
+    13700004: MountainGiant3
+    13700006: MountainGiant4
+    13700008: MountainGiant5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 22633
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L03
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Object01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Bone Tree A04
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Bone Tree A04/Mesh40
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Mesh36
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A05
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A05/Mesh41
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Mesh39
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Weapon Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Mesh37
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Hand Right
+          Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Object10
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head/Mesh13
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh09
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh28
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh31
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh32
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object05
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object06
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object09
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object12
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object13
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object14
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object15
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object16
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L/Bone_Foot_L01
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R/Bone_Foot_R01
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R/Foot
+          Right Ref '
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: MountainGiant1
+        weight: 1
+      - path: MountainGiant2
+        weight: 1
+      - path: MountainGiant3
+        weight: 1
+      - path: MountainGiant4
+        weight: 1
+      - path: MountainGiant5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 162
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .5
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L03
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Object01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Bone Tree A04
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Bone Tree A04/Mesh40
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Mesh36
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A05
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A05/Mesh41
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Mesh39
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Weapon Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Mesh37
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Hand Right
+          Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Object10
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head/Mesh13
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh09
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh28
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh31
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh32
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object05
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object06
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object09
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object12
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object13
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object14
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object15
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object16
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L/Bone_Foot_L01
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R/Bone_Foot_R01
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R/Foot
+          Right Ref '
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: MountainGiant1
+        weight: 1
+      - path: MountainGiant2
+        weight: 1
+      - path: MountainGiant3
+        weight: 1
+      - path: MountainGiant4
+        weight: 1
+      - path: MountainGiant5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 22633
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Bone_Hand_L03
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_L/Hand
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_L/Object01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Bone Tree A04
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Bone Tree A04/Mesh40
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A03/Mesh36
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A05
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Bone Tree A05/Mesh41
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Mesh39
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Bone Tree A02/Weapon Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone
+          Tree A01/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R01
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Bone_Hand_R03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Bone_Hand_R/Mesh37
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Bone_Arm2_R/Hand Right
+          Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Arm1_R/Object10
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head/Head - Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Bone_Head/Mesh13
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh03
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh09
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh28
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh31
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Mesh32
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object02
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object05
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object06
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object09
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object12
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object13
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object14
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object15
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Chest/Object16
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L/Bone_Foot_L01
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_L/Bone_Leg2_L/Bone_Foot_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R/Bone_Foot_R01
+        weight: 1
+      - path: 'm3bone_root/Bone_Root/Bone_Pelvis/Bone_Leg1_R/Bone_Leg2_R/Bone_Foot_R/Foot
+          Right Ref '
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: MountainGiant1
+        weight: 1
+      - path: MountainGiant2
+        weight: 1
+      - path: MountainGiant3
+        weight: 1
+      - path: MountainGiant4
+        weight: 1
+      - path: MountainGiant5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
