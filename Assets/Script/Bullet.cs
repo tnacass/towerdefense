@@ -25,11 +25,19 @@ public class Bullet : MonoBehaviour
 	void OnTriggerEnter(Collider co) 
 	{
 		Health health = co.GetComponentInChildren<Health>();
+		NavMeshAgent nav = co.GetComponentInChildren<NavMeshAgent> ();
 		if (health) 
 		{
 			health.DecreaseHealth();
 			Destroy(gameObject);
 			
+		}
+
+		if (GetComponent<Bullet> ().tag == "SlowBullet")
+		{
+			Debug.Log("SlowBullet");
+			nav.speed = 1;
+
 		}
 		
 	}

@@ -28,7 +28,7 @@ public class Tower : MonoBehaviour
 	void OnTriggerEnter(Collider co)
 	{
 		
-		if (co.GetComponent<Monster>())
+		if (co.tag == "Creep")
 		{
 				myTarget = co.transform;
 		}
