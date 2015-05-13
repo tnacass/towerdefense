@@ -5,12 +5,23 @@ public class Health : MonoBehaviour {
 
 
 	private TextMesh health;
+	private GameController gameController;
+	public int creepIncome;
 
 	// Use this for initialization
 	void Start () 
 	{
 
 		health = GetComponent<TextMesh>() ;
+		GameObject gameControllerObject = GameObject.FindWithTag ("GameController");
+		if (gameControllerObject != null)
+		{
+			gameController = gameControllerObject.GetComponent <GameController>();
+		}
+		if (gameController == null)
+		{
+			Debug.Log ("Cannot find 'GameController' script");
+		}
 	
 	}
 	
@@ -47,6 +58,11 @@ public class Health : MonoBehaviour {
 			if(transform.parent.gameObject.tag == "Castle")
 			{
 				Application.LoadLevel(2);
+			}
+			else
+			{
+				gameController.IncreaseIncome(creepIncome);
+
 			}
 		}
 		
