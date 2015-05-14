@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 06c837fd02a1a2d46b13ac36ed70e88e
+timeCreated: 1430890876
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Birth Stage 1 Lumber
+    100004: Birth Upgrade0 Stage2
+    100006: Birth Upgrade0 Stage3
+    100008: Birth Upgrade0 Stage4
+    100010: Birth Upgrade0 TownhallBase
+    100012: Birth Upgrade1 Stage 1
+    100014: Birth Upgrade2 Stage1
+    100016: Birth Upgrade2 Stage2a
+    100018: Birth Upgrade2 Stage2b
+    100020: Birth Upgrade2 Stage3a
+    100022: Birth Upgrade2 Stage3c
+    100024: Birth Upgrade2 Stage4b
+    100026: //RootNode
+    100028: ClockHand Hour01
+    100030: ClockHand Hour02
+    100032: ClockHand Hour03
+    100034: ClockHand Hour04
+    100036: ClockHand Minute01
+    100038: ClockHand Minute02
+    100040: ClockHand Minute03
+    100042: ClockHand Minute04
+    100044: decaystuff01
+    100046: Flag48
+    100048: Flag49
+    100050: Flag50
+    100052: Flag51
+    100054: Flag52
+    100056: Flag53
+    100058: Flag54
+    100060: Flag55
+    100062: Flag56
+    100064: Flag57
+    100066: Flag58
+    100068: Flag59
+    100070: Flag60
+    100072: Flag61
+    100074: Flag62
+    100076: InnerTowe06
+    100078: Level2_Ce04
+    100080: m3bone_root
+    100082: MainTower02
+    100084: Omni01
+    100086: Origin Ref
+    100088: Overhead Ref
+    100090: Overhead Ref01
+    100092: Plane01
+    100094: PortraitBackground
+    100096: Sprite Fifth Ref
+    100098: Sprite First Ref
+    100100: Sprite Fourth Ref
+    100102: Sprite RallyPoint Ref
+    100104: 'Sprite Second Ref '
+    100106: Sprite Third Ref
+    100108: TownHall1
+    100110: TownHall10
+    100112: TownHall11
+    100114: TownHall12
+    100116: TownHall13
+    100118: TownHall14
+    100120: TownHall15
+    100122: TownHall16
+    100124: TownHall17
+    100126: TownHall18
+    100128: TownHall19
+    100130: TownHall2
+    100132: TownHall20
+    100134: TownHall21
+    100136: TownHall22
+    100138: TownHall23
+    100140: TownHall24
+    100142: TownHall25
+    100144: TownHall26
+    100146: TownHall27
+    100148: TownHall28
+    100150: TownHall29
+    100152: TownHall3
+    100154: TownHall30
+    100156: TownHall31
+    100158: TownHall32
+    100160: TownHall33
+    100162: TownHall34
+    100164: TownHall35
+    100166: TownHall36
+    100168: TownHall4
+    100170: TownHall5
+    100172: TownHall6
+    100174: TownHall7
+    100176: TownHall8
+    100178: TownHall9
+    100180: Upgrade0 Townhall
+    100182: Upgrade1 Bell
+    100184: Upgrade1 Bell01
+    100186: Upgrade1 Townhall01
+    100188: Upgrade2 Castle Base
+    100190: Work Upgrade2
+    400000: _M3_Anim_Data
+    400002: Birth Stage 1 Lumber
+    400004: Birth Upgrade0 Stage2
+    400006: Birth Upgrade0 Stage3
+    400008: Birth Upgrade0 Stage4
+    400010: Birth Upgrade0 TownhallBase
+    400012: Birth Upgrade1 Stage 1
+    400014: Birth Upgrade2 Stage1
+    400016: Birth Upgrade2 Stage2a
+    400018: Birth Upgrade2 Stage2b
+    400020: Birth Upgrade2 Stage3a
+    400022: Birth Upgrade2 Stage3c
+    400024: Birth Upgrade2 Stage4b
+    400026: //RootNode
+    400028: ClockHand Hour01
+    400030: ClockHand Hour02
+    400032: ClockHand Hour03
+    400034: ClockHand Hour04
+    400036: ClockHand Minute01
+    400038: ClockHand Minute02
+    400040: ClockHand Minute03
+    400042: ClockHand Minute04
+    400044: decaystuff01
+    400046: Flag48
+    400048: Flag49
+    400050: Flag50
+    400052: Flag51
+    400054: Flag52
+    400056: Flag53
+    400058: Flag54
+    400060: Flag55
+    400062: Flag56
+    400064: Flag57
+    400066: Flag58
+    400068: Flag59
+    400070: Flag60
+    400072: Flag61
+    400074: Flag62
+    400076: InnerTowe06
+    400078: Level2_Ce04
+    400080: m3bone_root
+    400082: MainTower02
+    400084: Omni01
+    400086: Origin Ref
+    400088: Overhead Ref
+    400090: Overhead Ref01
+    400092: Plane01
+    400094: PortraitBackground
+    400096: Sprite Fifth Ref
+    400098: Sprite First Ref
+    400100: Sprite Fourth Ref
+    400102: Sprite RallyPoint Ref
+    400104: 'Sprite Second Ref '
+    400106: Sprite Third Ref
+    400108: TownHall1
+    400110: TownHall10
+    400112: TownHall11
+    400114: TownHall12
+    400116: TownHall13
+    400118: TownHall14
+    400120: TownHall15
+    400122: TownHall16
+    400124: TownHall17
+    400126: TownHall18
+    400128: TownHall19
+    400130: TownHall2
+    400132: TownHall20
+    400134: TownHall21
+    400136: TownHall22
+    400138: TownHall23
+    400140: TownHall24
+    400142: TownHall25
+    400144: TownHall26
+    400146: TownHall27
+    400148: TownHall28
+    400150: TownHall29
+    400152: TownHall3
+    400154: TownHall30
+    400156: TownHall31
+    400158: TownHall32
+    400160: TownHall33
+    400162: TownHall34
+    400164: TownHall35
+    400166: TownHall36
+    400168: TownHall4
+    400170: TownHall5
+    400172: TownHall6
+    400174: TownHall7
+    400176: TownHall8
+    400178: TownHall9
+    400180: Upgrade0 Townhall
+    400182: Upgrade1 Bell
+    400184: Upgrade1 Bell01
+    400186: Upgrade1 Townhall01
+    400188: Upgrade2 Castle Base
+    400190: Work Upgrade2
+    2300000: TownHall10
+    2300002: TownHall11
+    2300004: TownHall13
+    2300006: TownHall14
+    2300008: TownHall15
+    2300010: TownHall17
+    2300012: TownHall18
+    2300014: TownHall19
+    2300016: TownHall2
+    2300018: TownHall20
+    2300020: TownHall21
+    2300022: TownHall22
+    2300024: TownHall23
+    2300026: TownHall24
+    2300028: TownHall25
+    2300030: TownHall26
+    2300032: TownHall27
+    2300034: TownHall28
+    2300036: TownHall29
+    2300038: TownHall30
+    2300040: TownHall31
+    2300042: TownHall32
+    2300044: TownHall34
+    2300046: TownHall35
+    2300048: TownHall36
+    2300050: TownHall4
+    2300052: TownHall5
+    2300054: TownHall6
+    2300056: TownHall7
+    2300058: TownHall8
+    2300060: TownHall9
+    3300000: TownHall10
+    3300002: TownHall11
+    3300004: TownHall13
+    3300006: TownHall14
+    3300008: TownHall15
+    3300010: TownHall17
+    3300012: TownHall18
+    3300014: TownHall19
+    3300016: TownHall2
+    3300018: TownHall20
+    3300020: TownHall21
+    3300022: TownHall22
+    3300024: TownHall23
+    3300026: TownHall24
+    3300028: TownHall25
+    3300030: TownHall26
+    3300032: TownHall27
+    3300034: TownHall28
+    3300036: TownHall29
+    3300038: TownHall30
+    3300040: TownHall31
+    3300042: TownHall32
+    3300044: TownHall34
+    3300046: TownHall35
+    3300048: TownHall36
+    3300050: TownHall4
+    3300052: TownHall5
+    3300054: TownHall6
+    3300056: TownHall7
+    3300058: TownHall8
+    3300060: TownHall9
+    4300000: TownHall1
+    4300002: TownHall3
+    4300004: TownHall12
+    4300006: TownHall16
+    4300008: TownHall33
+    4300010: TownHall2
+    4300012: TownHall4
+    4300014: TownHall7
+    4300016: TownHall5
+    4300018: TownHall6
+    4300020: TownHall8
+    4300022: TownHall9
+    4300024: TownHall10
+    4300026: TownHall11
+    4300028: TownHall13
+    4300030: TownHall14
+    4300032: TownHall15
+    4300034: TownHall17
+    4300036: TownHall18
+    4300038: TownHall19
+    4300040: TownHall20
+    4300042: TownHall21
+    4300044: TownHall22
+    4300046: TownHall23
+    4300048: TownHall24
+    4300050: TownHall25
+    4300052: TownHall26
+    4300054: TownHall27
+    4300056: TownHall28
+    4300058: TownHall29
+    4300060: TownHall30
+    4300062: TownHall31
+    4300064: TownHall32
+    4300066: TownHall34
+    4300068: TownHall35
+    4300070: TownHall36
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: TownHall1
+    13700002: TownHall12
+    13700004: TownHall16
+    13700006: TownHall3
+    13700008: TownHall33
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
