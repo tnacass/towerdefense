@@ -55,6 +55,7 @@ public class Health : MonoBehaviour {
 		} else {
 			
 			Destroy (transform.parent.gameObject);
+
 			if(transform.parent.gameObject.tag == "Castle")
 			{
 				Application.LoadLevel(2);

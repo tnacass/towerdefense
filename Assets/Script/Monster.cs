@@ -3,9 +3,13 @@ using System.Collections;
 
 public class Monster : MonoBehaviour {
 
+	public float duration;
+
+
 	// Use this for initialization
 	void Start () 
 	{
+		duration = 2;
 		// Navigate to Castle
 		
 		GameObject castle = GameObject.Find("Castle");
@@ -14,6 +18,11 @@ public class Monster : MonoBehaviour {
 			
 			GetComponent<NavMeshAgent>().destination = castle.transform.position;
 	
+	}
+
+	void Update()
+	{
+		RecoverTime ();
 	}
 
 	void OnTriggerEnter(Collider co) {
@@ -26,6 +35,21 @@ public class Monster : MonoBehaviour {
 			Destroy(gameObject);
 		}
 		
+	}
+
+	void RecoverTime()
+	{
+
+		if (GetComponentInChildren<NavMeshAgent> ().speed <= 2.5) 
+		{
+			duration = duration - Time.deltaTime;
+			if(duration <= 0)
+			{
+				GetComponentInChildren<NavMeshAgent>().speed = GetComponentInChildren<NavMeshAgent>().speed * 2;
+			}
+
+		}
+
 	}
 
 }
