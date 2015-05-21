@@ -27,13 +27,13 @@ subl# TODO
 
 ## 3D Models and Textures
 - [X] Find the 3D models, textures and animations
-- [ ] Convert them so they can be used on Unity
-- [ ] Create a specific monster for each wave with the imported 3D models and textures
+- [X] Convert them so they can be used on Unity
+- [X] Create a specific monster for each wave with the imported 3D models and textures
 
 
 ## Animation
-- [ ] Specific "move" animation for each monster
-- [ ] Specific "death" animation for each monster
+- [X] Specific "move" animation for each monster
+- [X] Specific "death" animation for each monster
 
 ## Bonus
 - [ ] Corpse disparition animation

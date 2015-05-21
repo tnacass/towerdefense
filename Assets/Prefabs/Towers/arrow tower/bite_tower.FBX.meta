@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 0e09b3797636d074e95855288ebda571
+timeCreated: 1431589438
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: //RootNode
+    100004: Dummy02saw
+    100006: FencePlank01
+    100008: flag03
+    100010: flag04
+    100012: flag1
+    100014: flag2
+    100016: flagbase
+    100018: flagbase01
+    100020: FlagPole
+    100022: GroundBase00
+    100024: HumanTower1
+    100026: HumanTower10
+    100028: HumanTower11
+    100030: HumanTower12
+    100032: HumanTower13
+    100034: HumanTower14
+    100036: HumanTower15
+    100038: HumanTower16
+    100040: HumanTower17
+    100042: HumanTower18
+    100044: HumanTower19
+    100046: HumanTower2
+    100048: HumanTower20
+    100050: HumanTower21
+    100052: HumanTower22
+    100054: HumanTower23
+    100056: HumanTower3
+    100058: HumanTower4
+    100060: HumanTower5
+    100062: HumanTower6
+    100064: HumanTower7
+    100066: HumanTower8
+    100068: HumanTower9
+    100070: m3bone_root
+    100072: Omni01
+    100074: Origin Ref
+    100076: Overhead Ref
+    100078: PortraitBackground
+    100080: Rubble02
+    100082: Rubble1
+    100084: saw
+    100086: Scaffolding00
+    100088: Scaffolding09
+    100090: Scaffolding12
+    100092: SpearHead00
+    100094: Sprite First Ref
+    100096: sprite RallyPoint Ref
+    100098: 'Sprite Second Ref '
+    100100: UnitColor03
+    100102: UnitColor04
+    100104: UnitColor06
+    400000: _M3_Anim_Data
+    400002: //RootNode
+    400004: Dummy02saw
+    400006: FencePlank01
+    400008: flag03
+    400010: flag04
+    400012: flag1
+    400014: flag2
+    400016: flagbase
+    400018: flagbase01
+    400020: FlagPole
+    400022: GroundBase00
+    400024: HumanTower1
+    400026: HumanTower10
+    400028: HumanTower11
+    400030: HumanTower12
+    400032: HumanTower13
+    400034: HumanTower14
+    400036: HumanTower15
+    400038: HumanTower16
+    400040: HumanTower17
+    400042: HumanTower18
+    400044: HumanTower19
+    400046: HumanTower2
+    400048: HumanTower20
+    400050: HumanTower21
+    400052: HumanTower22
+    400054: HumanTower23
+    400056: HumanTower3
+    400058: HumanTower4
+    400060: HumanTower5
+    400062: HumanTower6
+    400064: HumanTower7
+    400066: HumanTower8
+    400068: HumanTower9
+    400070: m3bone_root
+    400072: Omni01
+    400074: Origin Ref
+    400076: Overhead Ref
+    400078: PortraitBackground
+    400080: Rubble02
+    400082: Rubble1
+    400084: saw
+    400086: Scaffolding00
+    400088: Scaffolding09
+    400090: Scaffolding12
+    400092: SpearHead00
+    400094: Sprite First Ref
+    400096: sprite RallyPoint Ref
+    400098: 'Sprite Second Ref '
+    400100: UnitColor03
+    400102: UnitColor04
+    400104: UnitColor06
+    2300000: HumanTower10
+    2300002: HumanTower11
+    2300004: HumanTower12
+    2300006: HumanTower13
+    2300008: HumanTower14
+    2300010: HumanTower15
+    2300012: HumanTower16
+    2300014: HumanTower17
+    2300016: HumanTower18
+    2300018: HumanTower19
+    2300020: HumanTower20
+    2300022: HumanTower21
+    2300024: HumanTower22
+    2300026: HumanTower23
+    2300028: HumanTower3
+    2300030: HumanTower4
+    2300032: HumanTower5
+    2300034: HumanTower6
+    2300036: HumanTower7
+    2300038: HumanTower8
+    2300040: HumanTower9
+    3300000: HumanTower10
+    3300002: HumanTower11
+    3300004: HumanTower12
+    3300006: HumanTower13
+    3300008: HumanTower14
+    3300010: HumanTower15
+    3300012: HumanTower16
+    3300014: HumanTower17
+    3300016: HumanTower18
+    3300018: HumanTower19
+    3300020: HumanTower20
+    3300022: HumanTower21
+    3300024: HumanTower22
+    3300026: HumanTower23
+    3300028: HumanTower3
+    3300030: HumanTower4
+    3300032: HumanTower5
+    3300034: HumanTower6
+    3300036: HumanTower7
+    3300038: HumanTower8
+    3300040: HumanTower9
+    4300000: HumanTower1
+    4300002: HumanTower2
+    4300004: HumanTower3
+    4300006: HumanTower4
+    4300008: HumanTower5
+    4300010: HumanTower6
+    4300012: HumanTower7
+    4300014: HumanTower8
+    4300016: HumanTower9
+    4300018: HumanTower10
+    4300020: HumanTower11
+    4300022: HumanTower12
+    4300024: HumanTower13
+    4300026: HumanTower14
+    4300028: HumanTower15
+    4300030: HumanTower16
+    4300032: HumanTower17
+    4300034: HumanTower18
+    4300036: HumanTower19
+    4300038: HumanTower20
+    4300040: HumanTower21
+    4300042: HumanTower23
+    4300044: HumanTower22
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: HumanTower1
+    13700002: HumanTower2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
