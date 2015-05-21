@@ -5,8 +5,17 @@ using System.Collections;
 public class GameController : MonoBehaviour {
 
 	public GameObject monster;
+	public GameObject monster2;
+	public GameObject monster3;
 	public GameObject spawner;
+	public int monsterCount;
 	public float spawnRate;
+
+	public float spawnWait;
+	public float startWait;
+	public float waveWait;
+
+	private int waveCount;
 
 	public Button singleTowerButton;
 	public Button AoeTowerButton;
@@ -23,9 +32,10 @@ public class GameController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		income = 100;
-		updateIncome ();
-		InvokeRepeating("SpawnNext", spawnRate, spawnRate);
+		waveCount = 1;
+		income = 150;
+		UpdateIncome ();
+		StartCoroutine (SpawnWaves ());
 		singleTowerButton.interactable = false;
 		AoeTowerButton.interactable = false;
 	
@@ -58,22 +68,53 @@ public class GameController : MonoBehaviour {
 		} 
 	
 	}
+
+
+	IEnumerator SpawnWaves ()
+	{
+		yield return new WaitForSeconds (startWait);
+		
+		while (true)
+		{
+			for (int i = 0; i < monsterCount; i++)
+			{
+				if(waveCount == 1)
+				{
+				Instantiate (monster, spawner.transform.position, Quaternion.identity);
+				}
+				yield return new WaitForSeconds (spawnWait);
+				if(waveCount == 2)
+				{
+					Instantiate(monster2, spawner.transform.position, Quaternion.identity);
+				}
+				if(waveCount == 3)
+				{
+					spawnWait = 1;
+					Instantiate(monster3, spawner.transform.position, Quaternion.identity);
+				}
+				if(waveCount > 3)
+				{
+					spawnWait = 2;
+					Instantiate(monster2, spawner.transform.position, Quaternion.identity);
+					Instantiate(monster3, spawner.transform.position, Quaternion.identity);
+					Instantiate (monster, spawner.transform.position, Quaternion.identity);
+				}
+			}
+			waveCount++;
+			yield return new WaitForSeconds (waveWait);
+			Debug.Log(waveCount);
+		}
+	}
 	
 
-	void SpawnNext() 
-	{
-		
-		Instantiate(monster, spawner.transform.position, Quaternion.identity);
-		
-	}
 
 	public void IncreaseIncome(int newIncome)
 	{
 		income += newIncome;
-		updateIncome ();
+		UpdateIncome ();
 	}
 
-	public void updateIncome()
+	public void UpdateIncome()
 	{
 		incomeText.text = "Income: " + income;
 	}
@@ -81,7 +122,7 @@ public class GameController : MonoBehaviour {
 	public void DecreaseIncome(int newIncome)
 	{
 		income -= newIncome;
-		updateIncome ();
+		UpdateIncome ();
 	}
 
 
