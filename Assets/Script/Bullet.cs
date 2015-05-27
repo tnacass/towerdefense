@@ -36,8 +36,8 @@ public class Bullet : MonoBehaviour
 		if (GetComponent<Bullet> ().tag == "SlowBullet")
 		{
 			Debug.Log("SlowBullet");
-			nav.speed = 1;
-
+			nav.speed = nav.speed / 2;
+			
 		}
 		
 	}
